@@ -1,3 +1,0 @@
-import model mono_spinhalf
-generate p p > a > mm+ mm-
-output SpinHalf_DrellYan_3000 -nojpeg

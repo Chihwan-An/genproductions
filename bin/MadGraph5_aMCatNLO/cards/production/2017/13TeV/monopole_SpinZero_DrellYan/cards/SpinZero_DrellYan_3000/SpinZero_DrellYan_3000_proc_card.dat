@@ -1,3 +1,0 @@
-import model mono_spinzero
-generate p p > a > mm+ mm-
-output SpinZero_DrellYan_3000 -nojpeg

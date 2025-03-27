@@ -21,6 +21,7 @@
 
 # Create tarball with very aggressive xz settings.
 # (trade memory and cpu usage for compression ratio)
+export NB_CORE=3
 make_tarball () {
     echo "Creating tarball"
     cd $WORKDIR/gridpack

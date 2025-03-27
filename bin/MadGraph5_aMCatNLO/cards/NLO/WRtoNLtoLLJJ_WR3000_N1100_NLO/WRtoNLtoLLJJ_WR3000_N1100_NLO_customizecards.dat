@@ -1,0 +1,8 @@
+set param_card mass 9900012 1100
+set param_card mass 9900014 1100
+set param_card mass 9900016 1100
+set param_card mass 34 3000
+set decay 9900012 AUTO
+set decay 9900014 AUTO
+set decay 9900016 AUTO
+set decay 34 AUTO

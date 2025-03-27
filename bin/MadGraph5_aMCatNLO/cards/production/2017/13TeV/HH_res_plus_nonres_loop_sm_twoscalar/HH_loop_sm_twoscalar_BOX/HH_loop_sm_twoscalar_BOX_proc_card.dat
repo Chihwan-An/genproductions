@@ -1,3 +1,0 @@
-import model loop_sm_twoscalar
-generate p p > h h [QCD] / eta0 iota0 LAM111=0
-output HH_loop_sm_twoscalar_BOX -nojpeg
