@@ -1,0 +1,876 @@
+LO/result_WR1000_N100/WRtoNLtoLLJJ_WR1000_N100.log | cross section:      Cross-section :   3.013 +- 0.04389 pb
+LO/result_WR1000_N200/WRtoNLtoLLJJ_WR1000_N200.log | cross section:      Cross-section :   2.943 +- 0.04153 pb
+LO/result_WR1000_N300/WRtoNLtoLLJJ_WR1000_N300.log | cross section:      Cross-section :   2.694 +- 0.03702 pb
+LO/result_WR1000_N400/WRtoNLtoLLJJ_WR1000_N400.log | cross section:      Cross-section :   2.403 +- 0.03136 pb
+LO/result_WR1000_N500/WRtoNLtoLLJJ_WR1000_N500.log | cross section:      Cross-section :   2.034 +- 0.01626 pb
+LO/result_WR1000_N600/WRtoNLtoLLJJ_WR1000_N600.log | cross section:      Cross-section :   1.622 +- 0.01855 pb
+LO/result_WR1000_N700/WRtoNLtoLLJJ_WR1000_N700.log | cross section:      Cross-section :   1.133 +- 0.005448 pb
+LO/result_WR1000_N800/WRtoNLtoLLJJ_WR1000_N800.log | cross section:      Cross-section :   0.6344 +- 0.005417 pb
+LO/result_WR1000_N900/WRtoNLtoLLJJ_WR1000_N900.log | cross section:      Cross-section :   0.2105 +- 0.002211 pb
+LO/result_WR1500_N1000/WRtoNLtoLLJJ_WR1500_N1000.log | cross section:      Cross-section :   0.2192 +- 0.001574 pb
+LO/result_WR1500_N100/WRtoNLtoLLJJ_WR1500_N100.log | cross section:      Cross-section :   0.529 +- 0.008515 pb
+LO/result_WR1500_N1100/WRtoNLtoLLJJ_WR1500_N1100.log | cross section:      Cross-section :   0.1635 +- 0.001739 pb
+LO/result_WR1500_N1200/WRtoNLtoLLJJ_WR1500_N1200.log | cross section:      Cross-section :   0.1062 +- 0.0008766 pb
+LO/result_WR1500_N1300/WRtoNLtoLLJJ_WR1500_N1300.log | cross section:      Cross-section :   0.05508 +- 0.0003502 pb
+LO/result_WR1500_N1400/WRtoNLtoLLJJ_WR1500_N1400.log | cross section:      Cross-section :   0.01829 +- 0.0001858 pb
+LO/result_WR1500_N200/WRtoNLtoLLJJ_WR1500_N200.log | cross section:      Cross-section :   0.5254 +- 0.00808 pb
+LO/result_WR1500_N300/WRtoNLtoLLJJ_WR1500_N300.log | cross section:      Cross-section :   0.5054 +- 0.007494 pb
+LO/result_WR1500_N400/WRtoNLtoLLJJ_WR1500_N400.log | cross section:      Cross-section :   0.4795 +- 0.006732 pb
+LO/result_WR1500_N500/WRtoNLtoLLJJ_WR1500_N500.log | cross section:      Cross-section :   0.4391 +- 0.003795 pb
+LO/result_WR1500_N600/WRtoNLtoLLJJ_WR1500_N600.log | cross section:      Cross-section :   0.413 +- 0.00548 pb
+LO/result_WR1500_N700/WRtoNLtoLLJJ_WR1500_N700.log | cross section:      Cross-section :   0.3658 +- 0.0038 pb
+LO/result_WR1500_N800/WRtoNLtoLLJJ_WR1500_N800.log | cross section:      Cross-section :   0.328 +- 0.003959 pb
+LO/result_WR1500_N900/WRtoNLtoLLJJ_WR1500_N900.log | cross section:      Cross-section :   0.2767 +- 0.003208 pb
+LO/result_WR2000_N1000/WRtoNLtoLLJJ_WR2000_N1000.log | cross section:      Cross-section :   0.08204 +- 0.0005829 pb
+LO/result_WR2000_N100/WRtoNLtoLLJJ_WR2000_N100.log | cross section:      Cross-section :   0.1291 +- 0.001367 pb
+LO/result_WR2000_N1100/WRtoNLtoLLJJ_WR2000_N1100.log | cross section:      Cross-section :   0.07385 +- 0.0005875 pb
+LO/result_WR2000_N1200/WRtoNLtoLLJJ_WR2000_N1200.log | cross section:      Cross-section :   0.0655 +- 0.0007617 pb
+LO/result_WR2000_N1300/WRtoNLtoLLJJ_WR2000_N1300.log | cross section:      Cross-section :   0.05502 +- 0.0004384 pb
+LO/result_WR2000_N1400/WRtoNLtoLLJJ_WR2000_N1400.log | cross section:      Cross-section :   0.04494 +- 0.0002847 pb
+LO/result_WR2000_N1500/WRtoNLtoLLJJ_WR2000_N1500.log | cross section:      Cross-section :   0.03455 +- 0.0002595 pb
+LO/result_WR2000_N1600/WRtoNLtoLLJJ_WR2000_N1600.log | cross section:      Cross-section :   0.02466 +- 0.0001637 pb
+LO/result_WR2000_N1700/WRtoNLtoLLJJ_WR2000_N1700.log | cross section:      Cross-section :   0.0155 +- 9.65e-05 pb
+LO/result_WR2000_N1800/WRtoNLtoLLJJ_WR2000_N1800.log | cross section:      Cross-section :   0.00806 +- 7.954e-05 pb
+LO/result_WR2000_N1900/WRtoNLtoLLJJ_WR2000_N1900.log | cross section:      Cross-section :   0.002712 +- 2.862e-05 pb
+LO/result_WR2000_N200/WRtoNLtoLLJJ_WR2000_N200.log | cross section:      Cross-section :   0.1268 +- 0.001279 pb
+LO/result_WR2000_N300/WRtoNLtoLLJJ_WR2000_N300.log | cross section:      Cross-section :   0.126 +- 0.001978 pb
+LO/result_WR2000_N400/WRtoNLtoLLJJ_WR2000_N400.log | cross section:      Cross-section :   0.1224 +- 0.001905 pb
+LO/result_WR2000_N500/WRtoNLtoLLJJ_WR2000_N500.log | cross section:      Cross-section :   0.1165 +- 0.001778 pb
+LO/result_WR2000_N600/WRtoNLtoLLJJ_WR2000_N600.log | cross section:      Cross-section :   0.1092 +- 0.0009831 pb
+LO/result_WR2000_N700/WRtoNLtoLLJJ_WR2000_N700.log | cross section:      Cross-section :   0.1051 +- 0.001443 pb
+LO/result_WR2000_N800/WRtoNLtoLLJJ_WR2000_N800.log | cross section:      Cross-section :   0.0985 +- 0.001308 pb
+LO/result_WR2000_N900/WRtoNLtoLLJJ_WR2000_N900.log | cross section:      Cross-section :   0.08977 +- 0.0005226 pb
+LO/result_WR2500_N1000/WRtoNLtoLLJJ_WR2500_N1000.log | cross section:      Cross-section :   0.02735 +- 0.0003632 pb
+LO/result_WR2500_N100/WRtoNLtoLLJJ_WR2500_N100.log | cross section:      Cross-section :   0.03735 +- 0.000262 pb
+LO/result_WR2500_N1100/WRtoNLtoLLJJ_WR2500_N1100.log | cross section:      Cross-section :   0.0255 +- 0.0003199 pb
+LO/result_WR2500_N1200/WRtoNLtoLLJJ_WR2500_N1200.log | cross section:      Cross-section :   0.02376 +- 0.0001906 pb
+LO/result_WR2500_N1300/WRtoNLtoLLJJ_WR2500_N1300.log | cross section:      Cross-section :   0.02189 +- 0.0001675 pb
+LO/result_WR2500_N1400/WRtoNLtoLLJJ_WR2500_N1400.log | cross section:      Cross-section :   0.01996 +- 0.0001548 pb
+LO/result_WR2500_N1500/WRtoNLtoLLJJ_WR2500_N1500.log | cross section:      Cross-section :   0.01797 +- 0.0001397 pb
+LO/result_WR2500_N1600/WRtoNLtoLLJJ_WR2500_N1600.log | cross section:      Cross-section :   0.0158 +- 0.0001191 pb
+LO/result_WR2500_N1700/WRtoNLtoLLJJ_WR2500_N1700.log | cross section:      Cross-section :   0.01354 +- 8.169e-05 pb
+LO/result_WR2500_N1800/WRtoNLtoLLJJ_WR2500_N1800.log | cross section:      Cross-section :   0.01128 +- 7.053e-05 pb
+LO/result_WR2500_N1900/WRtoNLtoLLJJ_WR2500_N1900.log | cross section:      Cross-section :   0.009078 +- 9.689e-05 pb
+LO/result_WR2500_N2000/WRtoNLtoLLJJ_WR2500_N2000.log | cross section:      Cross-section :   0.006781 +- 4.405e-05 pb
+LO/result_WR2500_N200/WRtoNLtoLLJJ_WR2500_N200.log | cross section:      Cross-section :   0.03677 +- 0.000401 pb
+LO/result_WR2500_N2100/WRtoNLtoLLJJ_WR2500_N2100.log | cross section:      Cross-section :   0.004785 +- 3.015e-05 pb
+LO/result_WR2500_N2200/WRtoNLtoLLJJ_WR2500_N2200.log | cross section:      Cross-section :   0.002927 +- 1.771e-05 pb
+LO/result_WR2500_N2300/WRtoNLtoLLJJ_WR2500_N2300.log | cross section:      Cross-section :   0.001494 +- 1.508e-05 pb
+LO/result_WR2500_N2400/WRtoNLtoLLJJ_WR2500_N2400.log | cross section:      Cross-section :   0.0005407 +- 5.682e-06 pb
+LO/result_WR2500_N300/WRtoNLtoLLJJ_WR2500_N300.log | cross section:      Cross-section :   0.03572 +- 0.0002521 pb
+LO/result_WR2500_N400/WRtoNLtoLLJJ_WR2500_N400.log | cross section:      Cross-section :   0.03557 +- 0.0006163 pb
+LO/result_WR2500_N500/WRtoNLtoLLJJ_WR2500_N500.log | cross section:      Cross-section :   0.03458 +- 0.0005618 pb
+LO/result_WR2500_N600/WRtoNLtoLLJJ_WR2500_N600.log | cross section:      Cross-section :   0.03331 +- 0.0005321 pb
+LO/result_WR2500_N700/WRtoNLtoLLJJ_WR2500_N700.log | cross section:      Cross-section :   0.03202 +- 0.0004902 pb
+LO/result_WR2500_N800/WRtoNLtoLLJJ_WR2500_N800.log | cross section:      Cross-section :   0.03014 +- 0.0002703 pb
+LO/result_WR2500_N900/WRtoNLtoLLJJ_WR2500_N900.log | cross section:      Cross-section :   0.02869 +- 0.0003823 pb
+LO/result_WR3000_N1000/WRtoNLtoLLJJ_WR3000_N1000.log | cross section:      Cross-section :   0.009219 +- 0.0001002 pb
+LO/result_WR3000_N100/WRtoNLtoLLJJ_WR3000_N100.log | cross section:      Cross-section :   0.01266 +- 0.0002831 pb
+LO/result_WR3000_N1100/WRtoNLtoLLJJ_WR3000_N1100.log | cross section:      Cross-section :   0.008781 +- 0.000117 pb
+LO/result_WR3000_N1200/WRtoNLtoLLJJ_WR3000_N1200.log | cross section:      Cross-section :   0.008424 +- 0.0001102 pb
+LO/result_WR3000_N1300/WRtoNLtoLLJJ_WR3000_N1300.log | cross section:      Cross-section :   0.008025 +- 4.65e-05 pb
+LO/result_WR3000_N1400/WRtoNLtoLLJJ_WR3000_N1400.log | cross section:      Cross-section :   0.007427 +- 9.021e-05 pb
+LO/result_WR3000_N1500/WRtoNLtoLLJJ_WR3000_N1500.log | cross section:      Cross-section :   0.006994 +- 5.355e-05 pb
+LO/result_WR3000_N1600/WRtoNLtoLLJJ_WR3000_N1600.log | cross section:      Cross-section :   0.00654 +- 3.492e-05 pb
+LO/result_WR3000_N1700/WRtoNLtoLLJJ_WR3000_N1700.log | cross section:      Cross-section :   0.006005 +- 4.429e-05 pb
+LO/result_WR3000_N1800/WRtoNLtoLLJJ_WR3000_N1800.log | cross section:      Cross-section :   0.005495 +- 4.151e-05 pb
+LO/result_WR3000_N1900/WRtoNLtoLLJJ_WR3000_N1900.log | cross section:      Cross-section :   0.004926 +- 5.67e-05 pb
+LO/result_WR3000_N2000/WRtoNLtoLLJJ_WR3000_N2000.log | cross section:      Cross-section :   0.004365 +- 2.795e-05 pb
+LO/result_WR3000_N200/WRtoNLtoLLJJ_WR3000_N200.log | cross section:      Cross-section :   0.01191 +- 8.493e-05 pb
+LO/result_WR3000_N2100/WRtoNLtoLLJJ_WR3000_N2100.log | cross section:      Cross-section :   0.003777 +- 2.309e-05 pb
+LO/result_WR3000_N2200/WRtoNLtoLLJJ_WR3000_N2200.log | cross section:      Cross-section :   0.003181 +- 3.178e-05 pb
+LO/result_WR3000_N2300/WRtoNLtoLLJJ_WR3000_N2300.log | cross section:      Cross-section :   0.002608 +- 1.813e-05 pb
+LO/result_WR3000_N2400/WRtoNLtoLLJJ_WR3000_N2400.log | cross section:      Cross-section :   0.002057 +- 1.329e-05 pb
+LO/result_WR3000_N2500/WRtoNLtoLLJJ_WR3000_N2500.log | cross section:      Cross-section :   0.00154 +- 6.458e-06 pb
+LO/result_WR3000_N2600/WRtoNLtoLLJJ_WR3000_N2600.log | cross section:      Cross-section :   0.001053 +- 7.905e-06 pb
+LO/result_WR3000_N2700/WRtoNLtoLLJJ_WR3000_N2700.log | cross section:      Cross-section :   0.0006535 +- 6.341e-06 pb
+LO/result_WR3000_N2800/WRtoNLtoLLJJ_WR3000_N2800.log | cross section:      Cross-section :   0.0003354 +- 3.254e-06 pb
+LO/result_WR3000_N2900/WRtoNLtoLLJJ_WR3000_N2900.log | cross section:      Cross-section :   0.0001253 +- 7.913e-07 pb
+LO/result_WR3000_N300/WRtoNLtoLLJJ_WR3000_N300.log | cross section:      Cross-section :   0.01145 +- 8.693e-05 pb
+LO/result_WR3000_N400/WRtoNLtoLLJJ_WR3000_N400.log | cross section:      Cross-section :   0.01121 +- 7.566e-05 pb
+LO/result_WR3000_N500/WRtoNLtoLLJJ_WR3000_N500.log | cross section:      Cross-section :   0.01106 +- 0.0001178 pb
+LO/result_WR3000_N600/WRtoNLtoLLJJ_WR3000_N600.log | cross section:      Cross-section :   0.01081 +- 0.0001134 pb
+LO/result_WR3000_N700/WRtoNLtoLLJJ_WR3000_N700.log | cross section:      Cross-section :   0.01043 +- 0.0001701 pb
+LO/result_WR3000_N800/WRtoNLtoLLJJ_WR3000_N800.log | cross section:      Cross-section :   0.01006 +- 0.0001559 pb
+LO/result_WR3000_N900/WRtoNLtoLLJJ_WR3000_N900.log | cross section:      Cross-section :   0.009618 +- 9.273e-05 pb
+LO/result_WR3500_N1000/WRtoNLtoLLJJ_WR3500_N1000.log | cross section:      Cross-section :   0.003226 +- 2.992e-05 pb
+LO/result_WR3500_N100/WRtoNLtoLLJJ_WR3500_N100.log | cross section:      Cross-section :   0.004462 +- 3.706e-05 pb
+LO/result_WR3500_N1100/WRtoNLtoLLJJ_WR3500_N1100.log | cross section:      Cross-section :   0.003119 +- 2.817e-05 pb
+LO/result_WR3500_N1200/WRtoNLtoLLJJ_WR3500_N1200.log | cross section:      Cross-section :   0.002994 +- 4.097e-05 pb
+LO/result_WR3500_N1300/WRtoNLtoLLJJ_WR3500_N1300.log | cross section:      Cross-section :   0.002906 +- 3.914e-05 pb
+LO/result_WR3500_N1400/WRtoNLtoLLJJ_WR3500_N1400.log | cross section:      Cross-section :   0.002744 +- 3.526e-05 pb
+LO/result_WR3500_N1500/WRtoNLtoLLJJ_WR3500_N1500.log | cross section:      Cross-section :   0.002646 +- 1.541e-05 pb
+LO/result_WR3500_N1600/WRtoNLtoLLJJ_WR3500_N1600.log | cross section:      Cross-section :   0.002469 +- 2.935e-05 pb
+LO/result_WR3500_N1700/WRtoNLtoLLJJ_WR3500_N1700.log | cross section:      Cross-section :   0.002365 +- 1.818e-05 pb
+LO/result_WR3500_N1800/WRtoNLtoLLJJ_WR3500_N1800.log | cross section:      Cross-section :   0.002223 +- 1.641e-05 pb
+LO/result_WR3500_N1900/WRtoNLtoLLJJ_WR3500_N1900.log | cross section:      Cross-section :   0.002084 +- 1.512e-05 pb
+LO/result_WR3500_N2000/WRtoNLtoLLJJ_WR3500_N2000.log | cross section:      Cross-section :   0.001929 +- 2.063e-05 pb
+LO/result_WR3500_N200/WRtoNLtoLLJJ_WR3500_N200.log | cross section:      Cross-section :   0.004256 +- 2.233e-05 pb
+LO/result_WR3500_N2100/WRtoNLtoLLJJ_WR3500_N2100.log | cross section:      Cross-section :   0.001786 +- 1.945e-05 pb
+LO/result_WR3500_N2200/WRtoNLtoLLJJ_WR3500_N2200.log | cross section:      Cross-section :   0.001614 +- 1.638e-05 pb
+LO/result_WR3500_N2300/WRtoNLtoLLJJ_WR3500_N2300.log | cross section:      Cross-section :   0.00147 +- 1.002e-05 pb
+LO/result_WR3500_N2400/WRtoNLtoLLJJ_WR3500_N2400.log | cross section:      Cross-section :   0.001305 +- 1.147e-05 pb
+LO/result_WR3500_N2500/WRtoNLtoLLJJ_WR3500_N2500.log | cross section:      Cross-section :   0.00114 +- 7.233e-06 pb
+LO/result_WR3500_N2600/WRtoNLtoLLJJ_WR3500_N2600.log | cross section:      Cross-section :   0.0009826 +- 9.519e-06 pb
+LO/result_WR3500_N2700/WRtoNLtoLLJJ_WR3500_N2700.log | cross section:      Cross-section :   0.0008238 +- 7.983e-06 pb
+LO/result_WR3500_N2800/WRtoNLtoLLJJ_WR3500_N2800.log | cross section:      Cross-section :   0.0006674 +- 4.161e-06 pb
+LO/result_WR3500_N2900/WRtoNLtoLLJJ_WR3500_N2900.log | cross section:      Cross-section :   0.0005236 +- 3.177e-06 pb
+LO/result_WR3500_N3000/WRtoNLtoLLJJ_WR3500_N3000.log | cross section:      Cross-section :   0.0003877 +- 3.547e-06 pb
+LO/result_WR3500_N300/WRtoNLtoLLJJ_WR3500_N300.log | cross section:      Cross-section :   0.004091 +- 2.461e-05 pb
+LO/result_WR3500_N3100/WRtoNLtoLLJJ_WR3500_N3100.log | cross section:      Cross-section :   0.0002653 +- 2.403e-06 pb
+LO/result_WR3500_N3200/WRtoNLtoLLJJ_WR3500_N3200.log | cross section:      Cross-section :   0.0001601 +- 1.463e-06 pb
+LO/result_WR3500_N3300/WRtoNLtoLLJJ_WR3500_N3300.log | cross section:      Cross-section :   8.305e-05 +- 5.212e-07 pb
+LO/result_WR3500_N3400/WRtoNLtoLLJJ_WR3500_N3400.log | cross section:      Cross-section :   3.322e-05 +- 2.349e-07 pb
+LO/result_WR3500_N400/WRtoNLtoLLJJ_WR3500_N400.log | cross section:      Cross-section :   0.003992 +- 2.964e-05 pb
+LO/result_WR3500_N500/WRtoNLtoLLJJ_WR3500_N500.log | cross section:      Cross-section :   0.003837 +- 2.651e-05 pb
+LO/result_WR3500_N600/WRtoNLtoLLJJ_WR3500_N600.log | cross section:      Cross-section :   0.003687 +- 2.422e-05 pb
+LO/result_WR3500_N700/WRtoNLtoLLJJ_WR3500_N700.log | cross section:      Cross-section :   0.003587 +- 2.271e-05 pb
+LO/result_WR3500_N800/WRtoNLtoLLJJ_WR3500_N800.log | cross section:      Cross-section :   0.003508 +- 3.547e-05 pb
+LO/result_WR3500_N900/WRtoNLtoLLJJ_WR3500_N900.log | cross section:      Cross-section :   0.003328 +- 3.087e-05 pb
+LO/result_WR4000_N1000/WRtoNLtoLLJJ_WR4000_N1000.log | cross section:      Cross-section :   0.001246 +- 1.307e-05 pb
+LO/result_WR4000_N100/WRtoNLtoLLJJ_WR4000_N100.log | cross section:      Cross-section :   0.001833 +- 1.086e-05 pb
+LO/result_WR4000_N1100/WRtoNLtoLLJJ_WR4000_N1100.log | cross section:      Cross-section :   0.001186 +- 1.196e-05 pb
+LO/result_WR4000_N1200/WRtoNLtoLLJJ_WR4000_N1200.log | cross section:      Cross-section :   0.001153 +- 1.205e-05 pb
+LO/result_WR4000_N1300/WRtoNLtoLLJJ_WR4000_N1300.log | cross section:      Cross-section :   0.001107 +- 1.143e-05 pb
+LO/result_WR4000_N1400/WRtoNLtoLLJJ_WR4000_N1400.log | cross section:      Cross-section :   0.00109 +- 1.457e-05 pb
+LO/result_WR4000_N1500/WRtoNLtoLLJJ_WR4000_N1500.log | cross section:      Cross-section :   0.00105 +- 1.361e-05 pb
+LO/result_WR4000_N1600/WRtoNLtoLLJJ_WR4000_N1600.log | cross section:      Cross-section :   0.0009974 +- 1.261e-05 pb
+LO/result_WR4000_N1700/WRtoNLtoLLJJ_WR4000_N1700.log | cross section:      Cross-section :   0.0009353 +- 1.069e-05 pb
+LO/result_WR4000_N1800/WRtoNLtoLLJJ_WR4000_N1800.log | cross section:      Cross-section :   0.0009105 +- 9.331e-06 pb
+LO/result_WR4000_N1900/WRtoNLtoLLJJ_WR4000_N1900.log | cross section:      Cross-section :   0.0008682 +- 7.869e-06 pb
+LO/result_WR4000_N2000/WRtoNLtoLLJJ_WR4000_N2000.log | cross section:      Cross-section :   0.0008157 +- 5.865e-06 pb
+LO/result_WR4000_N200/WRtoNLtoLLJJ_WR4000_N200.log | cross section:      Cross-section :   0.001726 +- 6.768e-06 pb
+LO/result_WR4000_N2100/WRtoNLtoLLJJ_WR4000_N2100.log | cross section:      Cross-section :   0.00077 +- 5.377e-06 pb
+LO/result_WR4000_N2200/WRtoNLtoLLJJ_WR4000_N2200.log | cross section:      Cross-section :   0.0007206 +- 4.824e-06 pb
+LO/result_WR4000_N2300/WRtoNLtoLLJJ_WR4000_N2300.log | cross section:      Cross-section :   0.0006751 +- 6.671e-06 pb
+LO/result_WR4000_N2400/WRtoNLtoLLJJ_WR4000_N2400.log | cross section:      Cross-section :   0.0006331 +- 5.113e-06 pb
+LO/result_WR4000_N2500/WRtoNLtoLLJJ_WR4000_N2500.log | cross section:      Cross-section :   0.0005812 +- 5.618e-06 pb
+LO/result_WR4000_N2600/WRtoNLtoLLJJ_WR4000_N2600.log | cross section:      Cross-section :   0.0005412 +- 5.453e-06 pb
+LO/result_WR4000_N2700/WRtoNLtoLLJJ_WR4000_N2700.log | cross section:      Cross-section :   0.0004878 +- 4.609e-06 pb
+LO/result_WR4000_N2800/WRtoNLtoLLJJ_WR4000_N2800.log | cross section:      Cross-section :   0.0004332 +- 3.947e-06 pb
+LO/result_WR4000_N2900/WRtoNLtoLLJJ_WR4000_N2900.log | cross section:      Cross-section :   0.0003821 +- 3.558e-06 pb
+LO/result_WR4000_N3000/WRtoNLtoLLJJ_WR4000_N3000.log | cross section:      Cross-section :   0.0003317 +- 2.934e-06 pb
+LO/result_WR4000_N300/WRtoNLtoLLJJ_WR4000_N300.log | cross section:      Cross-section :   0.001625 +- 6.043e-06 pb
+LO/result_WR4000_N3100/WRtoNLtoLLJJ_WR4000_N3100.log | cross section:      Cross-section :   0.0002827 +- 2.479e-06 pb
+LO/result_WR4000_N3200/WRtoNLtoLLJJ_WR4000_N3200.log | cross section:      Cross-section :   0.0002363 +- 2.067e-06 pb
+LO/result_WR4000_N3300/WRtoNLtoLLJJ_WR4000_N3300.log | cross section:      Cross-section :   0.0001906 +- 1.1e-06 pb
+LO/result_WR4000_N3400/WRtoNLtoLLJJ_WR4000_N3400.log | cross section:      Cross-section :   0.0001455 +- 7.833e-07 pb
+LO/result_WR4000_N3500/WRtoNLtoLLJJ_WR4000_N3500.log | cross section:      Cross-section :   0.0001078 +- 1.021e-06 pb
+LO/result_WR4000_N3600/WRtoNLtoLLJJ_WR4000_N3600.log | cross section:      Cross-section :   7.391e-05 +- 6.226e-07 pb
+LO/result_WR4000_N3700/WRtoNLtoLLJJ_WR4000_N3700.log | cross section:      Cross-section :   4.553e-05 +- 3.846e-07 pb
+LO/result_WR4000_N3800/WRtoNLtoLLJJ_WR4000_N3800.log | cross section:      Cross-section :   2.386e-05 +- 2.054e-07 pb
+LO/result_WR4000_N3900/WRtoNLtoLLJJ_WR4000_N3900.log | cross section:      Cross-section :   1.003e-05 +- 9.729e-08 pb
+LO/result_WR4000_N400/WRtoNLtoLLJJ_WR4000_N400.log | cross section:      Cross-section :   0.00155 +- 8.005e-06 pb
+LO/result_WR4000_N500/WRtoNLtoLLJJ_WR4000_N500.log | cross section:      Cross-section :   0.001491 +- 7.421e-06 pb
+LO/result_WR4000_N600/WRtoNLtoLLJJ_WR4000_N600.log | cross section:      Cross-section :   0.001431 +- 7.039e-06 pb
+LO/result_WR4000_N700/WRtoNLtoLLJJ_WR4000_N700.log | cross section:      Cross-section :   0.001385 +- 9.598e-06 pb
+LO/result_WR4000_N800/WRtoNLtoLLJJ_WR4000_N800.log | cross section:      Cross-section :   0.001338 +- 8.971e-06 pb
+LO/result_WR4000_N900/WRtoNLtoLLJJ_WR4000_N900.log | cross section:      Cross-section :   0.0013 +- 1.409e-05 pb
+LO/result_WR4500_N1000/WRtoNLtoLLJJ_WR4500_N1000.log | cross section:      Cross-section :   0.0005263 +- 2.736e-06 pb
+LO/result_WR4500_N100/WRtoNLtoLLJJ_WR4500_N100.log | cross section:      Cross-section :   0.0008623 +- 6.548e-06 pb
+LO/result_WR4500_N1100/WRtoNLtoLLJJ_WR4500_N1100.log | cross section:      Cross-section :   0.0005056 +- 5.949e-06 pb
+LO/result_WR4500_N1200/WRtoNLtoLLJJ_WR4500_N1200.log | cross section:      Cross-section :   0.0004872 +- 3.787e-06 pb
+LO/result_WR4500_N1300/WRtoNLtoLLJJ_WR4500_N1300.log | cross section:      Cross-section :   0.0004591 +- 6.464e-06 pb
+LO/result_WR4500_N1400/WRtoNLtoLLJJ_WR4500_N1400.log | cross section:      Cross-section :   0.0004466 +- 6.023e-06 pb
+LO/result_WR4500_N1500/WRtoNLtoLLJJ_WR4500_N1500.log | cross section:      Cross-section :   0.0004317 +- 5.444e-06 pb
+LO/result_WR4500_N1600/WRtoNLtoLLJJ_WR4500_N1600.log | cross section:      Cross-section :   0.000424 +- 5.208e-06 pb
+LO/result_WR4500_N1700/WRtoNLtoLLJJ_WR4500_N1700.log | cross section:      Cross-section :   0.0004082 +- 4.91e-06 pb
+LO/result_WR4500_N1800/WRtoNLtoLLJJ_WR4500_N1800.log | cross section:      Cross-section :   0.0003847 +- 4.276e-06 pb
+LO/result_WR4500_N1900/WRtoNLtoLLJJ_WR4500_N1900.log | cross section:      Cross-section :   0.0003749 +- 4.594e-06 pb
+LO/result_WR4500_N2000/WRtoNLtoLLJJ_WR4500_N2000.log | cross section:      Cross-section :   0.0003573 +- 3.807e-06 pb
+LO/result_WR4500_N200/WRtoNLtoLLJJ_WR4500_N200.log | cross section:      Cross-section :   0.0007851 +- 2.178e-06 pb
+LO/result_WR4500_N2100/WRtoNLtoLLJJ_WR4500_N2100.log | cross section:      Cross-section :   0.0003438 +- 3.616e-06 pb
+LO/result_WR4500_N2200/WRtoNLtoLLJJ_WR4500_N2200.log | cross section:      Cross-section :   0.0003263 +- 2.254e-06 pb
+LO/result_WR4500_N2300/WRtoNLtoLLJJ_WR4500_N2300.log | cross section:      Cross-section :   0.0003118 +- 2.099e-06 pb
+LO/result_WR4500_N2400/WRtoNLtoLLJJ_WR4500_N2400.log | cross section:      Cross-section :   0.0002944 +- 1.886e-06 pb
+LO/result_WR4500_N2500/WRtoNLtoLLJJ_WR4500_N2500.log | cross section:      Cross-section :   0.0002786 +- 1.748e-06 pb
+LO/result_WR4500_N2600/WRtoNLtoLLJJ_WR4500_N2600.log | cross section:      Cross-section :   0.0002613 +- 2.297e-06 pb
+LO/result_WR4500_N2700/WRtoNLtoLLJJ_WR4500_N2700.log | cross section:      Cross-section :   0.0002466 +- 2.227e-06 pb
+LO/result_WR4500_N2800/WRtoNLtoLLJJ_WR4500_N2800.log | cross section:      Cross-section :   0.000229 +- 1.997e-06 pb
+LO/result_WR4500_N2900/WRtoNLtoLLJJ_WR4500_N2900.log | cross section:      Cross-section :   0.0002132 +- 1.937e-06 pb
+LO/result_WR4500_N3000/WRtoNLtoLLJJ_WR4500_N3000.log | cross section:      Cross-section :   0.0001974 +- 1.789e-06 pb
+LO/result_WR4500_N300/WRtoNLtoLLJJ_WR4500_N300.log | cross section:      Cross-section :   0.0007316 +- 3.012e-06 pb
+LO/result_WR4500_N3100/WRtoNLtoLLJJ_WR4500_N3100.log | cross section:      Cross-section :   0.0001785 +- 1.484e-06 pb
+LO/result_WR4500_N3200/WRtoNLtoLLJJ_WR4500_N3200.log | cross section:      Cross-section :   0.0001608 +- 1.362e-06 pb
+LO/result_WR4500_N3300/WRtoNLtoLLJJ_WR4500_N3300.log | cross section:      Cross-section :   0.0001436 +- 1.219e-06 pb
+LO/result_WR4500_N3400/WRtoNLtoLLJJ_WR4500_N3400.log | cross section:      Cross-section :   0.0001257 +- 1.026e-06 pb
+LO/result_WR4500_N3500/WRtoNLtoLLJJ_WR4500_N3500.log | cross section:      Cross-section :   0.0001089 +- 8.788e-07 pb
+LO/result_WR4500_N3600/WRtoNLtoLLJJ_WR4500_N3600.log | cross section:      Cross-section :   9.211e-05 +- 7.344e-07 pb
+LO/result_WR4500_N3700/WRtoNLtoLLJJ_WR4500_N3700.log | cross section:      Cross-section :   7.676e-05 +- 6.056e-07 pb
+LO/result_WR4500_N3800/WRtoNLtoLLJJ_WR4500_N3800.log | cross section:      Cross-section :   6.042e-05 +- 3.331e-07 pb
+LO/result_WR4500_N3900/WRtoNLtoLLJJ_WR4500_N3900.log | cross section:      Cross-section :   4.667e-05 +- 2.409e-07 pb
+LO/result_WR4500_N4000/WRtoNLtoLLJJ_WR4500_N4000.log | cross section:      Cross-section :   3.447e-05 +- 2.719e-07 pb
+LO/result_WR4500_N400/WRtoNLtoLLJJ_WR4500_N400.log | cross section:      Cross-section :   0.0006902 +- 2.678e-06 pb
+LO/result_WR4500_N4100/WRtoNLtoLLJJ_WR4500_N4100.log | cross section:      Cross-section :   2.355e-05 +- 1.684e-07 pb
+LO/result_WR4500_N4200/WRtoNLtoLLJJ_WR4500_N4200.log | cross section:      Cross-section :   1.467e-05 +- 1.148e-07 pb
+LO/result_WR4500_N4300/WRtoNLtoLLJJ_WR4500_N4300.log | cross section:      Cross-section :   7.885e-06 +- 7.037e-08 pb
+LO/result_WR4500_N4400/WRtoNLtoLLJJ_WR4500_N4400.log | cross section:      Cross-section :   3.567e-06 +- 3.677e-08 pb
+LO/result_WR4500_N500/WRtoNLtoLLJJ_WR4500_N500.log | cross section:      Cross-section :   0.0006541 +- 2.427e-06 pb
+LO/result_WR4500_N600/WRtoNLtoLLJJ_WR4500_N600.log | cross section:      Cross-section :   0.0006221 +- 2.396e-06 pb
+LO/result_WR4500_N700/WRtoNLtoLLJJ_WR4500_N700.log | cross section:      Cross-section :   0.0005965 +- 3.209e-06 pb
+LO/result_WR4500_N800/WRtoNLtoLLJJ_WR4500_N800.log | cross section:      Cross-section :   0.0005708 +- 3.374e-06 pb
+LO/result_WR4500_N900/WRtoNLtoLLJJ_WR4500_N900.log | cross section:      Cross-section :   0.0005457 +- 4.073e-06 pb
+LO/result_WR5000_N1000/WRtoNLtoLLJJ_WR5000_N1000.log | cross section:      Cross-section :   0.0002521 +- 1.359e-06 pb
+LO/result_WR5000_N100/WRtoNLtoLLJJ_WR5000_N100.log | cross section:      Cross-section :   0.0004548 +- 3.067e-06 pb
+LO/result_WR5000_N1100/WRtoNLtoLLJJ_WR5000_N1100.log | cross section:      Cross-section :   0.0002422 +- 1.266e-06 pb
+LO/result_WR5000_N1200/WRtoNLtoLLJJ_WR5000_N1200.log | cross section:      Cross-section :   0.0002296 +- 1.627e-06 pb
+LO/result_WR5000_N1300/WRtoNLtoLLJJ_WR5000_N1300.log | cross section:      Cross-section :   0.0002217 +- 2.249e-06 pb
+LO/result_WR5000_N1400/WRtoNLtoLLJJ_WR5000_N1400.log | cross section:      Cross-section :   0.0002094 +- 3.15e-06 pb
+LO/result_WR5000_N1500/WRtoNLtoLLJJ_WR5000_N1500.log | cross section:      Cross-section :   0.0002026 +- 2.875e-06 pb
+LO/result_WR5000_N1600/WRtoNLtoLLJJ_WR5000_N1600.log | cross section:      Cross-section :   0.0001957 +- 2.575e-06 pb
+LO/result_WR5000_N1700/WRtoNLtoLLJJ_WR5000_N1700.log | cross section:      Cross-section :   0.0001931 +- 1.65e-06 pb
+LO/result_WR5000_N1800/WRtoNLtoLLJJ_WR5000_N1800.log | cross section:      Cross-section :   0.0001874 +- 2.054e-06 pb
+LO/result_WR5000_N1900/WRtoNLtoLLJJ_WR5000_N1900.log | cross section:      Cross-section :   0.00018 +- 2.226e-06 pb
+LO/result_WR5000_N2000/WRtoNLtoLLJJ_WR5000_N2000.log | cross section:      Cross-section :   0.0001701 +- 1.853e-06 pb
+LO/result_WR5000_N200/WRtoNLtoLLJJ_WR5000_N200.log | cross section:      Cross-section :   0.0004096 +- 1.195e-06 pb
+LO/result_WR5000_N2100/WRtoNLtoLLJJ_WR5000_N2100.log | cross section:      Cross-section :   0.0001652 +- 1.336e-06 pb
+LO/result_WR5000_N2200/WRtoNLtoLLJJ_WR5000_N2200.log | cross section:      Cross-section :   0.0001587 +- 1.631e-06 pb
+LO/result_WR5000_N2300/WRtoNLtoLLJJ_WR5000_N2300.log | cross section:      Cross-section :   0.0001532 +- 1.535e-06 pb
+LO/result_WR5000_N2400/WRtoNLtoLLJJ_WR5000_N2400.log | cross section:      Cross-section :   0.0001461 +- 9.915e-07 pb
+LO/result_WR5000_N2500/WRtoNLtoLLJJ_WR5000_N2500.log | cross section:      Cross-section :   0.0001403 +- 9.184e-07 pb
+LO/result_WR5000_N2600/WRtoNLtoLLJJ_WR5000_N2600.log | cross section:      Cross-section :   0.0001337 +- 8.587e-07 pb
+LO/result_WR5000_N2700/WRtoNLtoLLJJ_WR5000_N2700.log | cross section:      Cross-section :   0.0001269 +- 1.052e-06 pb
+LO/result_WR5000_N2800/WRtoNLtoLLJJ_WR5000_N2800.log | cross section:      Cross-section :   0.0001208 +- 8.819e-07 pb
+LO/result_WR5000_N2900/WRtoNLtoLLJJ_WR5000_N2900.log | cross section:      Cross-section :   0.0001142 +- 8.57e-07 pb
+LO/result_WR5000_N3000/WRtoNLtoLLJJ_WR5000_N3000.log | cross section:      Cross-section :   0.0001068 +- 8.673e-07 pb
+LO/result_WR5000_N300/WRtoNLtoLLJJ_WR5000_N300.log | cross section:      Cross-section :   0.0003744 +- 1.358e-06 pb
+LO/result_WR5000_N3100/WRtoNLtoLLJJ_WR5000_N3100.log | cross section:      Cross-section :   0.0001001 +- 7.987e-07 pb
+LO/result_WR5000_N3200/WRtoNLtoLLJJ_WR5000_N3200.log | cross section:      Cross-section :   9.407e-05 +- 7.923e-07 pb
+LO/result_WR5000_N3300/WRtoNLtoLLJJ_WR5000_N3300.log | cross section:      Cross-section :   8.726e-05 +- 7.119e-07 pb
+LO/result_WR5000_N3400/WRtoNLtoLLJJ_WR5000_N3400.log | cross section:      Cross-section :   8.05e-05 +- 6.776e-07 pb
+LO/result_WR5000_N3500/WRtoNLtoLLJJ_WR5000_N3500.log | cross section:      Cross-section :   7.355e-05 +- 5.94e-07 pb
+LO/result_WR5000_N3600/WRtoNLtoLLJJ_WR5000_N3600.log | cross section:      Cross-section :   6.656e-05 +- 5.289e-07 pb
+LO/result_WR5000_N3700/WRtoNLtoLLJJ_WR5000_N3700.log | cross section:      Cross-section :   6.004e-05 +- 4.605e-07 pb
+LO/result_WR5000_N3800/WRtoNLtoLLJJ_WR5000_N3800.log | cross section:      Cross-section :   5.337e-05 +- 4.066e-07 pb
+LO/result_WR5000_N3900/WRtoNLtoLLJJ_WR5000_N3900.log | cross section:      Cross-section :   4.648e-05 +- 3.447e-07 pb
+LO/result_WR5000_N4000/WRtoNLtoLLJJ_WR5000_N4000.log | cross section:      Cross-section :   3.988e-05 +- 2.917e-07 pb
+LO/result_WR5000_N400/WRtoNLtoLLJJ_WR5000_N400.log | cross section:      Cross-section :   0.000347 +- 9.571e-07 pb
+LO/result_WR5000_N4100/WRtoNLtoLLJJ_WR5000_N4100.log | cross section:      Cross-section :   3.391e-05 +- 2.607e-07 pb
+LO/result_WR5000_N4200/WRtoNLtoLLJJ_WR5000_N4200.log | cross section:      Cross-section :   2.749e-05 +- 1.901e-07 pb
+LO/result_WR5000_N4300/WRtoNLtoLLJJ_WR5000_N4300.log | cross section:      Cross-section :   2.204e-05 +- 1.605e-07 pb
+LO/result_WR5000_N4400/WRtoNLtoLLJJ_WR5000_N4400.log | cross section:      Cross-section :   1.699e-05 +- 1.215e-07 pb
+LO/result_WR5000_N4500/WRtoNLtoLLJJ_WR5000_N4500.log | cross section:      Cross-section :   1.258e-05 +- 9.14e-08 pb
+LO/result_WR5000_N4600/WRtoNLtoLLJJ_WR5000_N4600.log | cross section:      Cross-section :   8.507e-06 +- 5.864e-08 pb
+LO/result_WR5000_N4700/WRtoNLtoLLJJ_WR5000_N4700.log | cross section:      Cross-section :   5.301e-06 +- 3.844e-08 pb
+LO/result_WR5000_N4800/WRtoNLtoLLJJ_WR5000_N4800.log | cross section:      Cross-section :   2.942e-06 +- 2.403e-08 pb
+LO/result_WR5000_N4900/WRtoNLtoLLJJ_WR5000_N4900.log | cross section:      Cross-section :   1.401e-06 +- 1.299e-08 pb
+LO/result_WR5000_N500/WRtoNLtoLLJJ_WR5000_N500.log | cross section:      Cross-section :   0.0003243 +- 1.335e-06 pb
+LO/result_WR5000_N600/WRtoNLtoLLJJ_WR5000_N600.log | cross section:      Cross-section :   0.0003044 +- 1.249e-06 pb
+LO/result_WR5000_N700/WRtoNLtoLLJJ_WR5000_N700.log | cross section:      Cross-section :   0.0002882 +- 1.082e-06 pb
+LO/result_WR5000_N800/WRtoNLtoLLJJ_WR5000_N800.log | cross section:      Cross-section :   0.0002738 +- 1.009e-06 pb
+LO/result_WR5000_N900/WRtoNLtoLLJJ_WR5000_N900.log | cross section:      Cross-section :   0.0002624 +- 1.436e-06 pb
+LO/result_WR5500_N1000/WRtoNLtoLLJJ_WR5500_N1000.log | cross section:      Cross-section :   0.0001307 +- 8.13e-07 pb
+LO/result_WR5500_N100/WRtoNLtoLLJJ_WR5500_N100.log | cross section:      Cross-section :   0.0002632 +- 1.141e-06 pb
+LO/result_WR5500_N1100/WRtoNLtoLLJJ_WR5500_N1100.log | cross section:      Cross-section :   0.0001246 +- 5.952e-07 pb
+LO/result_WR5500_N1200/WRtoNLtoLLJJ_WR5500_N1200.log | cross section:      Cross-section :   0.0001201 +- 6.563e-07 pb
+LO/result_WR5500_N1300/WRtoNLtoLLJJ_WR5500_N1300.log | cross section:      Cross-section :   0.000115 +- 6.117e-07 pb
+LO/result_WR5500_N1400/WRtoNLtoLLJJ_WR5500_N1400.log | cross section:      Cross-section :   0.0001102 +- 8.129e-07 pb
+LO/result_WR5500_N1500/WRtoNLtoLLJJ_WR5500_N1500.log | cross section:      Cross-section :   0.0001056 +- 1.176e-06 pb
+LO/result_WR5500_N1600/WRtoNLtoLLJJ_WR5500_N1600.log | cross section:      Cross-section :   0.000102 +- 1.087e-06 pb
+LO/result_WR5500_N1700/WRtoNLtoLLJJ_WR5500_N1700.log | cross section:      Cross-section :   9.767e-05 +- 1.431e-06 pb
+LO/result_WR5500_N1800/WRtoNLtoLLJJ_WR5500_N1800.log | cross section:      Cross-section :   9.446e-05 +- 1.282e-06 pb
+LO/result_WR5500_N1900/WRtoNLtoLLJJ_WR5500_N1900.log | cross section:      Cross-section :   9.171e-05 +- 7.957e-07 pb
+LO/result_WR5500_N2000/WRtoNLtoLLJJ_WR5500_N2000.log | cross section:      Cross-section :   8.862e-05 +- 7.352e-07 pb
+LO/result_WR5500_N200/WRtoNLtoLLJJ_WR5500_N200.log | cross section:      Cross-section :   0.0002352 +- 1.753e-06 pb
+LO/result_WR5500_N2100/WRtoNLtoLLJJ_WR5500_N2100.log | cross section:      Cross-section :   8.622e-05 +- 1.042e-06 pb
+LO/result_WR5500_N2200/WRtoNLtoLLJJ_WR5500_N2200.log | cross section:      Cross-section :   8.145e-05 +- 8.651e-07 pb
+LO/result_WR5500_N2300/WRtoNLtoLLJJ_WR5500_N2300.log | cross section:      Cross-section :   7.911e-05 +- 8.165e-07 pb
+LO/result_WR5500_N2400/WRtoNLtoLLJJ_WR5500_N2400.log | cross section:      Cross-section :   7.648e-05 +- 7.62e-07 pb
+LO/result_WR5500_N2500/WRtoNLtoLLJJ_WR5500_N2500.log | cross section:      Cross-section :   7.396e-05 +- 7.069e-07 pb
+LO/result_WR5500_N2600/WRtoNLtoLLJJ_WR5500_N2600.log | cross section:      Cross-section :   7.109e-05 +- 6.618e-07 pb
+LO/result_WR5500_N2700/WRtoNLtoLLJJ_WR5500_N2700.log | cross section:      Cross-section :   6.787e-05 +- 5.348e-07 pb
+LO/result_WR5500_N2800/WRtoNLtoLLJJ_WR5500_N2800.log | cross section:      Cross-section :   6.522e-05 +- 5.271e-07 pb
+LO/result_WR5500_N2900/WRtoNLtoLLJJ_WR5500_N2900.log | cross section:      Cross-section :   6.272e-05 +- 5.874e-07 pb
+LO/result_WR5500_N3000/WRtoNLtoLLJJ_WR5500_N3000.log | cross section:      Cross-section :   5.971e-05 +- 4.916e-07 pb
+LO/result_WR5500_N300/WRtoNLtoLLJJ_WR5500_N300.log | cross section:      Cross-section :   0.000211 +- 6.404e-07 pb
+LO/result_WR5500_N3100/WRtoNLtoLLJJ_WR5500_N3100.log | cross section:      Cross-section :   5.684e-05 +- 4.361e-07 pb
+LO/result_WR5500_N3200/WRtoNLtoLLJJ_WR5500_N3200.log | cross section:      Cross-section :   5.385e-05 +- 4.406e-07 pb
+LO/result_WR5500_N3300/WRtoNLtoLLJJ_WR5500_N3300.log | cross section:      Cross-section :   5.126e-05 +- 4.188e-07 pb
+LO/result_WR5500_N3400/WRtoNLtoLLJJ_WR5500_N3400.log | cross section:      Cross-section :   4.866e-05 +- 4.203e-07 pb
+LO/result_WR5500_N3500/WRtoNLtoLLJJ_WR5500_N3500.log | cross section:      Cross-section :   4.545e-05 +- 3.758e-07 pb
+LO/result_WR5500_N3600/WRtoNLtoLLJJ_WR5500_N3600.log | cross section:      Cross-section :   4.261e-05 +- 3.499e-07 pb
+LO/result_WR5500_N3700/WRtoNLtoLLJJ_WR5500_N3700.log | cross section:      Cross-section :   3.98e-05 +- 3.315e-07 pb
+LO/result_WR5500_N3800/WRtoNLtoLLJJ_WR5500_N3800.log | cross section:      Cross-section :   3.659e-05 +- 2.952e-07 pb
+LO/result_WR5500_N3900/WRtoNLtoLLJJ_WR5500_N3900.log | cross section:      Cross-section :   3.369e-05 +- 2.615e-07 pb
+LO/result_WR5500_N4000/WRtoNLtoLLJJ_WR5500_N4000.log | cross section:      Cross-section :   3.049e-05 +- 2.34e-07 pb
+LO/result_WR5500_N400/WRtoNLtoLLJJ_WR5500_N400.log | cross section:      Cross-section :   0.000193 +- 5.834e-07 pb
+LO/result_WR5500_N4100/WRtoNLtoLLJJ_WR5500_N4100.log | cross section:      Cross-section :   2.763e-05 +- 2.101e-07 pb
+LO/result_WR5500_N4200/WRtoNLtoLLJJ_WR5500_N4200.log | cross section:      Cross-section :   2.476e-05 +- 1.828e-07 pb
+LO/result_WR5500_N4300/WRtoNLtoLLJJ_WR5500_N4300.log | cross section:      Cross-section :   2.176e-05 +- 1.596e-07 pb
+LO/result_WR5500_N4400/WRtoNLtoLLJJ_WR5500_N4400.log | cross section:      Cross-section :   1.899e-05 +- 1.357e-07 pb
+LO/result_WR5500_N4500/WRtoNLtoLLJJ_WR5500_N4500.log | cross section:      Cross-section :   1.631e-05 +- 1.276e-07 pb
+LO/result_WR5500_N4600/WRtoNLtoLLJJ_WR5500_N4600.log | cross section:      Cross-section :   1.366e-05 +- 9.578e-08 pb
+LO/result_WR5500_N4700/WRtoNLtoLLJJ_WR5500_N4700.log | cross section:      Cross-section :   1.119e-05 +- 8.257e-08 pb
+LO/result_WR5500_N4800/WRtoNLtoLLJJ_WR5500_N4800.log | cross section:      Cross-section :   8.963e-06 +- 6.474e-08 pb
+LO/result_WR5500_N4900/WRtoNLtoLLJJ_WR5500_N4900.log | cross section:      Cross-section :   6.907e-06 +- 6.794e-08 pb
+LO/result_WR5500_N5000/WRtoNLtoLLJJ_WR5500_N5000.log | cross section:      Cross-section :   5.059e-06 +- 3.614e-08 pb
+LO/result_WR5500_N500/WRtoNLtoLLJJ_WR5500_N500.log | cross section:      Cross-section :   0.0001783 +- 5.376e-07 pb
+LO/result_WR5500_N5100/WRtoNLtoLLJJ_WR5500_N5100.log | cross section:      Cross-section :   3.471e-06 +- 2.602e-08 pb
+LO/result_WR5500_N5200/WRtoNLtoLLJJ_WR5500_N5200.log | cross section:      Cross-section :   2.173e-06 +- 1.754e-08 pb
+LO/result_WR5500_N5300/WRtoNLtoLLJJ_WR5500_N5300.log | cross section:      Cross-section :   1.223e-06 +- 6.434e-09 pb
+LO/result_WR5500_N5400/WRtoNLtoLLJJ_WR5500_N5400.log | cross section:      Cross-section :   5.917e-07 +- 5.452e-09 pb
+LO/result_WR5500_N600/WRtoNLtoLLJJ_WR5500_N600.log | cross section:      Cross-section :   0.0001655 +- 4.898e-07 pb
+LO/result_WR5500_N700/WRtoNLtoLLJJ_WR5500_N700.log | cross section:      Cross-section :   0.0001541 +- 6.365e-07 pb
+LO/result_WR5500_N800/WRtoNLtoLLJJ_WR5500_N800.log | cross section:      Cross-section :   0.000145 +- 5.91e-07 pb
+LO/result_WR5500_N900/WRtoNLtoLLJJ_WR5500_N900.log | cross section:      Cross-section :   0.0001373 +- 5.549e-07 pb
+LO/result_WR6000_N1000/WRtoNLtoLLJJ_WR6000_N1000.log | cross section:      Cross-section :   7.219e-05 +- 2.992e-07 pb
+LO/result_WR6000_N100/WRtoNLtoLLJJ_WR6000_N100.log | cross section:      Cross-section :   0.0001647 +- 7.327e-07 pb
+LO/result_WR6000_N1100/WRtoNLtoLLJJ_WR6000_N1100.log | cross section:      Cross-section :   6.838e-05 +- 2.882e-07 pb
+LO/result_WR6000_N1200/WRtoNLtoLLJJ_WR6000_N1200.log | cross section:      Cross-section :   6.505e-05 +- 2.584e-07 pb
+LO/result_WR6000_N1300/WRtoNLtoLLJJ_WR6000_N1300.log | cross section:      Cross-section :   6.217e-05 +- 3.615e-07 pb
+LO/result_WR6000_N1400/WRtoNLtoLLJJ_WR6000_N1400.log | cross section:      Cross-section :   5.901e-05 +- 3.028e-07 pb
+LO/result_WR6000_N1500/WRtoNLtoLLJJ_WR6000_N1500.log | cross section:      Cross-section :   5.718e-05 +- 4.633e-07 pb
+LO/result_WR6000_N1600/WRtoNLtoLLJJ_WR6000_N1600.log | cross section:      Cross-section :   5.463e-05 +- 4.186e-07 pb
+LO/result_WR6000_N1700/WRtoNLtoLLJJ_WR6000_N1700.log | cross section:      Cross-section :   5.249e-05 +- 5.502e-07 pb
+LO/result_WR6000_N1800/WRtoNLtoLLJJ_WR6000_N1800.log | cross section:      Cross-section :   5.078e-05 +- 5.026e-07 pb
+LO/result_WR6000_N1900/WRtoNLtoLLJJ_WR6000_N1900.log | cross section:      Cross-section :   4.927e-05 +- 7.823e-07 pb
+LO/result_WR6000_N2000/WRtoNLtoLLJJ_WR6000_N2000.log | cross section:      Cross-section :   4.764e-05 +- 6.79e-07 pb
+LO/result_WR6000_N200/WRtoNLtoLLJJ_WR6000_N200.log | cross section:      Cross-section :   0.0001456 +- 1.12e-06 pb
+LO/result_WR6000_N2100/WRtoNLtoLLJJ_WR6000_N2100.log | cross section:      Cross-section :   4.595e-05 +- 5.025e-07 pb
+LO/result_WR6000_N2200/WRtoNLtoLLJJ_WR6000_N2200.log | cross section:      Cross-section :   4.451e-05 +- 5.426e-07 pb
+LO/result_WR6000_N2300/WRtoNLtoLLJJ_WR6000_N2300.log | cross section:      Cross-section :   4.322e-05 +- 5.109e-07 pb
+LO/result_WR6000_N2400/WRtoNLtoLLJJ_WR6000_N2400.log | cross section:      Cross-section :   4.101e-05 +- 4.295e-07 pb
+LO/result_WR6000_N2500/WRtoNLtoLLJJ_WR6000_N2500.log | cross section:      Cross-section :   4.011e-05 +- 3.735e-07 pb
+LO/result_WR6000_N2600/WRtoNLtoLLJJ_WR6000_N2600.log | cross section:      Cross-section :   3.882e-05 +- 3.114e-07 pb
+LO/result_WR6000_N2700/WRtoNLtoLLJJ_WR6000_N2700.log | cross section:      Cross-section :   3.75e-05 +- 3.333e-07 pb
+LO/result_WR6000_N2800/WRtoNLtoLLJJ_WR6000_N2800.log | cross section:      Cross-section :   3.616e-05 +- 2.359e-07 pb
+LO/result_WR6000_N2900/WRtoNLtoLLJJ_WR6000_N2900.log | cross section:      Cross-section :   3.48e-05 +- 3.549e-07 pb
+LO/result_WR6000_N3000/WRtoNLtoLLJJ_WR6000_N3000.log | cross section:      Cross-section :   3.334e-05 +- 2.729e-07 pb
+LO/result_WR6000_N300/WRtoNLtoLLJJ_WR6000_N300.log | cross section:      Cross-section :   0.000128 +- 4.156e-07 pb
+LO/result_WR6000_N3100/WRtoNLtoLLJJ_WR6000_N3100.log | cross section:      Cross-section :   3.2e-05 +- 2.588e-07 pb
+LO/result_WR6000_N3200/WRtoNLtoLLJJ_WR6000_N3200.log | cross section:      Cross-section :   3.083e-05 +- 2.306e-07 pb
+LO/result_WR6000_N3300/WRtoNLtoLLJJ_WR6000_N3300.log | cross section:      Cross-section :   2.953e-05 +- 2.257e-07 pb
+LO/result_WR6000_N3400/WRtoNLtoLLJJ_WR6000_N3400.log | cross section:      Cross-section :   2.823e-05 +- 2.206e-07 pb
+LO/result_WR6000_N3500/WRtoNLtoLLJJ_WR6000_N3500.log | cross section:      Cross-section :   2.684e-05 +- 2.168e-07 pb
+LO/result_WR6000_N3600/WRtoNLtoLLJJ_WR6000_N3600.log | cross section:      Cross-section :   2.563e-05 +- 1.788e-07 pb
+LO/result_WR6000_N3700/WRtoNLtoLLJJ_WR6000_N3700.log | cross section:      Cross-section :   2.457e-05 +- 2.123e-07 pb
+LO/result_WR6000_N3800/WRtoNLtoLLJJ_WR6000_N3800.log | cross section:      Cross-section :   2.313e-05 +- 1.951e-07 pb
+LO/result_WR6000_N3900/WRtoNLtoLLJJ_WR6000_N3900.log | cross section:      Cross-section :   2.178e-05 +- 1.807e-07 pb
+LO/result_WR6000_N4000/WRtoNLtoLLJJ_WR6000_N4000.log | cross section:      Cross-section :   2.043e-05 +- 1.675e-07 pb
+LO/result_WR6000_N400/WRtoNLtoLLJJ_WR6000_N400.log | cross section:      Cross-section :   0.0001149 +- 3.629e-07 pb
+LO/result_WR6000_N4100/WRtoNLtoLLJJ_WR6000_N4100.log | cross section:      Cross-section :   1.899e-05 +- 1.58e-07 pb
+LO/result_WR6000_N4200/WRtoNLtoLLJJ_WR6000_N4200.log | cross section:      Cross-section :   1.763e-05 +- 1.453e-07 pb
+LO/result_WR6000_N4300/WRtoNLtoLLJJ_WR6000_N4300.log | cross section:      Cross-section :   1.625e-05 +- 1.32e-07 pb
+LO/result_WR6000_N4400/WRtoNLtoLLJJ_WR6000_N4400.log | cross section:      Cross-section :   1.487e-05 +- 1.172e-07 pb
+LO/result_WR6000_N4500/WRtoNLtoLLJJ_WR6000_N4500.log | cross section:      Cross-section :   1.354e-05 +- 1.008e-07 pb
+LO/result_WR6000_N4600/WRtoNLtoLLJJ_WR6000_N4600.log | cross section:      Cross-section :   1.213e-05 +- 9.226e-08 pb
+LO/result_WR6000_N4700/WRtoNLtoLLJJ_WR6000_N4700.log | cross section:      Cross-section :   1.087e-05 +- 8.084e-08 pb
+LO/result_WR6000_N4800/WRtoNLtoLLJJ_WR6000_N4800.log | cross section:      Cross-section :   9.53e-06 +- 6.842e-08 pb
+LO/result_WR6000_N4900/WRtoNLtoLLJJ_WR6000_N4900.log | cross section:      Cross-section :   8.288e-06 +- 6.088e-08 pb
+LO/result_WR6000_N5000/WRtoNLtoLLJJ_WR6000_N5000.log | cross section:      Cross-section :   7.041e-06 +- 4.957e-08 pb
+LO/result_WR6000_N500/WRtoNLtoLLJJ_WR6000_N500.log | cross section:      Cross-section :   0.0001043 +- 3.257e-07 pb
+LO/result_WR6000_N5100/WRtoNLtoLLJJ_WR6000_N5100.log | cross section:      Cross-section :   5.899e-06 +- 4.546e-08 pb
+LO/result_WR6000_N5200/WRtoNLtoLLJJ_WR6000_N5200.log | cross section:      Cross-section :   4.829e-06 +- 3.619e-08 pb
+LO/result_WR6000_N5300/WRtoNLtoLLJJ_WR6000_N5300.log | cross section:      Cross-section :   3.864e-06 +- 2.909e-08 pb
+LO/result_WR6000_N5400/WRtoNLtoLLJJ_WR6000_N5400.log | cross section:      Cross-section :   2.978e-06 +- 2.496e-08 pb
+LO/result_WR6000_N5500/WRtoNLtoLLJJ_WR6000_N5500.log | cross section:      Cross-section :   2.155e-06 +- 1.646e-08 pb
+LO/result_WR6000_N5600/WRtoNLtoLLJJ_WR6000_N5600.log | cross section:      Cross-section :   1.498e-06 +- 1.236e-08 pb
+LO/result_WR6000_N5700/WRtoNLtoLLJJ_WR6000_N5700.log | cross section:      Cross-section :   9.472e-07 +- 7.858e-09 pb
+LO/result_WR6000_N5800/WRtoNLtoLLJJ_WR6000_N5800.log | cross section:      Cross-section :   5.318e-07 +- 2.777e-09 pb
+LO/result_WR6000_N5900/WRtoNLtoLLJJ_WR6000_N5900.log | cross section:      Cross-section :   2.679e-07 +- 2.341e-09 pb
+LO/result_WR6000_N600/WRtoNLtoLLJJ_WR6000_N600.log | cross section:      Cross-section :   9.564e-05 +- 2.814e-07 pb
+LO/result_WR6000_N700/WRtoNLtoLLJJ_WR6000_N700.log | cross section:      Cross-section :   8.849e-05 +- 3.53e-07 pb
+LO/result_WR6000_N800/WRtoNLtoLLJJ_WR6000_N800.log | cross section:      Cross-section :   8.236e-05 +- 2.837e-07 pb
+LO/result_WR6000_N900/WRtoNLtoLLJJ_WR6000_N900.log | cross section:      Cross-section :   7.67e-05 +- 3.462e-07 pb
+LO/result_WR6500_N1000/WRtoNLtoLLJJ_WR6500_N1000.log | cross section:      Cross-section :   4.173e-05 +- 1.816e-07 pb
+LO/result_WR6500_N100/WRtoNLtoLLJJ_WR6500_N100.log | cross section:      Cross-section :   0.0001078 +- 3.173e-07 pb
+LO/result_WR6500_N1100/WRtoNLtoLLJJ_WR6500_N1100.log | cross section:      Cross-section :   3.913e-05 +- 1.685e-07 pb
+LO/result_WR6500_N1200/WRtoNLtoLLJJ_WR6500_N1200.log | cross section:      Cross-section :   3.687e-05 +- 1.535e-07 pb
+LO/result_WR6500_N1300/WRtoNLtoLLJJ_WR6500_N1300.log | cross section:      Cross-section :   3.487e-05 +- 1.403e-07 pb
+LO/result_WR6500_N1400/WRtoNLtoLLJJ_WR6500_N1400.log | cross section:      Cross-section :   3.313e-05 +- 2.22e-07 pb
+LO/result_WR6500_N1500/WRtoNLtoLLJJ_WR6500_N1500.log | cross section:      Cross-section :   3.145e-05 +- 2.413e-07 pb
+LO/result_WR6500_N1600/WRtoNLtoLLJJ_WR6500_N1600.log | cross section:      Cross-section :   2.995e-05 +- 1.898e-07 pb
+LO/result_WR6500_N1700/WRtoNLtoLLJJ_WR6500_N1700.log | cross section:      Cross-section :   2.891e-05 +- 1.556e-07 pb
+LO/result_WR6500_N1800/WRtoNLtoLLJJ_WR6500_N1800.log | cross section:      Cross-section :   2.79e-05 +- 3.244e-07 pb
+LO/result_WR6500_N1900/WRtoNLtoLLJJ_WR6500_N1900.log | cross section:      Cross-section :   2.663e-05 +- 2.797e-07 pb
+LO/result_WR6500_N2000/WRtoNLtoLLJJ_WR6500_N2000.log | cross section:      Cross-section :   2.585e-05 +- 2.648e-07 pb
+LO/result_WR6500_N200/WRtoNLtoLLJJ_WR6500_N200.log | cross section:      Cross-section :   9.332e-05 +- 4.308e-07 pb
+LO/result_WR6500_N2100/WRtoNLtoLLJJ_WR6500_N2100.log | cross section:      Cross-section :   2.492e-05 +- 4.02e-07 pb
+LO/result_WR6500_N2200/WRtoNLtoLLJJ_WR6500_N2200.log | cross section:      Cross-section :   2.418e-05 +- 2.042e-07 pb
+LO/result_WR6500_N2300/WRtoNLtoLLJJ_WR6500_N2300.log | cross section:      Cross-section :   2.341e-05 +- 2.949e-07 pb
+LO/result_WR6500_N2400/WRtoNLtoLLJJ_WR6500_N2400.log | cross section:      Cross-section :   2.286e-05 +- 2.86e-07 pb
+LO/result_WR6500_N2500/WRtoNLtoLLJJ_WR6500_N2500.log | cross section:      Cross-section :   2.209e-05 +- 2.608e-07 pb
+LO/result_WR6500_N2600/WRtoNLtoLLJJ_WR6500_N2600.log | cross section:      Cross-section :   2.11e-05 +- 1.791e-07 pb
+LO/result_WR6500_N2700/WRtoNLtoLLJJ_WR6500_N2700.log | cross section:      Cross-section :   2.052e-05 +- 2.28e-07 pb
+LO/result_WR6500_N2800/WRtoNLtoLLJJ_WR6500_N2800.log | cross section:      Cross-section :   1.977e-05 +- 1.8e-07 pb
+LO/result_WR6500_N2900/WRtoNLtoLLJJ_WR6500_N2900.log | cross section:      Cross-section :   1.919e-05 +- 1.699e-07 pb
+LO/result_WR6500_N3000/WRtoNLtoLLJJ_WR6500_N3000.log | cross section:      Cross-section :   1.856e-05 +- 1.415e-07 pb
+LO/result_WR6500_N300/WRtoNLtoLLJJ_WR6500_N300.log | cross section:      Cross-section :   8.15e-05 +- 2.695e-07 pb
+LO/result_WR6500_N3100/WRtoNLtoLLJJ_WR6500_N3100.log | cross section:      Cross-section :   1.8e-05 +- 1.166e-07 pb
+LO/result_WR6500_N3200/WRtoNLtoLLJJ_WR6500_N3200.log | cross section:      Cross-section :   1.723e-05 +- 1.564e-07 pb
+LO/result_WR6500_N3300/WRtoNLtoLLJJ_WR6500_N3300.log | cross section:      Cross-section :   1.672e-05 +- 1.721e-07 pb
+LO/result_WR6500_N3400/WRtoNLtoLLJJ_WR6500_N3400.log | cross section:      Cross-section :   1.603e-05 +- 1.568e-07 pb
+LO/result_WR6500_N3500/WRtoNLtoLLJJ_WR6500_N3500.log | cross section:      Cross-section :   1.549e-05 +- 1.197e-07 pb
+LO/result_WR6500_N3600/WRtoNLtoLLJJ_WR6500_N3600.log | cross section:      Cross-section :   1.488e-05 +- 1.147e-07 pb
+LO/result_WR6500_N3700/WRtoNLtoLLJJ_WR6500_N3700.log | cross section:      Cross-section :   1.426e-05 +- 1.085e-07 pb
+LO/result_WR6500_N3800/WRtoNLtoLLJJ_WR6500_N3800.log | cross section:      Cross-section :   1.366e-05 +- 1.099e-07 pb
+LO/result_WR6500_N3900/WRtoNLtoLLJJ_WR6500_N3900.log | cross section:      Cross-section :   1.299e-05 +- 1.033e-07 pb
+LO/result_WR6500_N4000/WRtoNLtoLLJJ_WR6500_N4000.log | cross section:      Cross-section :   1.235e-05 +- 9.762e-08 pb
+LO/result_WR6500_N400/WRtoNLtoLLJJ_WR6500_N400.log | cross section:      Cross-section :   7.197e-05 +- 2.345e-07 pb
+LO/result_WR6500_N4100/WRtoNLtoLLJJ_WR6500_N4100.log | cross section:      Cross-section :   1.187e-05 +- 9.985e-08 pb
+LO/result_WR6500_N4200/WRtoNLtoLLJJ_WR6500_N4200.log | cross section:      Cross-section :   1.122e-05 +- 9.468e-08 pb
+LO/result_WR6500_N4300/WRtoNLtoLLJJ_WR6500_N4300.log | cross section:      Cross-section :   1.055e-05 +- 8.883e-08 pb
+LO/result_WR6500_N4400/WRtoNLtoLLJJ_WR6500_N4400.log | cross section:      Cross-section :   9.899e-06 +- 8.209e-08 pb
+LO/result_WR6500_N4500/WRtoNLtoLLJJ_WR6500_N4500.log | cross section:      Cross-section :   9.242e-06 +- 7.604e-08 pb
+LO/result_WR6500_N4600/WRtoNLtoLLJJ_WR6500_N4600.log | cross section:      Cross-section :   8.588e-06 +- 6.97e-08 pb
+LO/result_WR6500_N4700/WRtoNLtoLLJJ_WR6500_N4700.log | cross section:      Cross-section :   7.929e-06 +- 6.381e-08 pb
+LO/result_WR6500_N4800/WRtoNLtoLLJJ_WR6500_N4800.log | cross section:      Cross-section :   7.293e-06 +- 5.384e-08 pb
+LO/result_WR6500_N4900/WRtoNLtoLLJJ_WR6500_N4900.log | cross section:      Cross-section :   6.657e-06 +- 5.144e-08 pb
+LO/result_WR6500_N5000/WRtoNLtoLLJJ_WR6500_N5000.log | cross section:      Cross-section :   6.034e-06 +- 4.408e-08 pb
+LO/result_WR6500_N500/WRtoNLtoLLJJ_WR6500_N500.log | cross section:      Cross-section :   6.465e-05 +- 2.011e-07 pb
+LO/result_WR6500_N5100/WRtoNLtoLLJJ_WR6500_N5100.log | cross section:      Cross-section :   5.415e-06 +- 3.982e-08 pb
+LO/result_WR6500_N5200/WRtoNLtoLLJJ_WR6500_N5200.log | cross section:      Cross-section :   4.822e-06 +- 3.57e-08 pb
+LO/result_WR6500_N5300/WRtoNLtoLLJJ_WR6500_N5300.log | cross section:      Cross-section :   4.215e-06 +- 3.324e-08 pb
+LO/result_WR6500_N5400/WRtoNLtoLLJJ_WR6500_N5400.log | cross section:      Cross-section :   3.646e-06 +- 2.658e-08 pb
+LO/result_WR6500_N5500/WRtoNLtoLLJJ_WR6500_N5500.log | cross section:      Cross-section :   3.111e-06 +- 2.49e-08 pb
+LO/result_WR6500_N5600/WRtoNLtoLLJJ_WR6500_N5600.log | cross section:      Cross-section :   2.614e-06 +- 2.015e-08 pb
+LO/result_WR6500_N5700/WRtoNLtoLLJJ_WR6500_N5700.log | cross section:      Cross-section :   2.124e-06 +- 1.598e-08 pb
+LO/result_WR6500_N5800/WRtoNLtoLLJJ_WR6500_N5800.log | cross section:      Cross-section :   1.684e-06 +- 7.937e-09 pb
+LO/result_WR6500_N5900/WRtoNLtoLLJJ_WR6500_N5900.log | cross section:      Cross-section :   1.284e-06 +- 9.221e-09 pb
+LO/result_WR6500_N6000/WRtoNLtoLLJJ_WR6500_N6000.log | cross section:      Cross-section :   9.37e-07 +- 7.295e-09 pb
+LO/result_WR6500_N600/WRtoNLtoLLJJ_WR6500_N600.log | cross section:      Cross-section :   5.841e-05 +- 1.805e-07 pb
+LO/result_WR6500_N6100/WRtoNLtoLLJJ_WR6500_N6100.log | cross section:      Cross-section :   6.447e-07 +- 4.826e-09 pb
+LO/result_WR6500_N6200/WRtoNLtoLLJJ_WR6500_N6200.log | cross section:      Cross-section :   4.097e-07 +- 3.744e-09 pb
+LO/result_WR6500_N6300/WRtoNLtoLLJJ_WR6500_N6300.log | cross section:      Cross-section :   2.321e-07 +- 1.547e-09 pb
+LO/result_WR6500_N6400/WRtoNLtoLLJJ_WR6500_N6400.log | cross section:      Cross-section :   1.174e-07 +- 1.038e-09 pb
+LO/result_WR6500_N700/WRtoNLtoLLJJ_WR6500_N700.log | cross section:      Cross-section :   5.324e-05 +- 1.627e-07 pb
+LO/result_WR6500_N800/WRtoNLtoLLJJ_WR6500_N800.log | cross section:      Cross-section :   4.869e-05 +- 1.5e-07 pb
+LO/result_WR6500_N900/WRtoNLtoLLJJ_WR6500_N900.log | cross section:      Cross-section :   4.509e-05 +- 1.379e-07 pb
+NLO/result_WR1000_N100_NLO/WRtoNLtoLLJJ_WR1000_N100_NLO.log | cross section:       Total cross section: 3.626e+00 +- 3.7e-03 pb
+NLO/result_WR1000_N200_NLO/WRtoNLtoLLJJ_WR1000_N200_NLO.log | cross section:       Total cross section: 3.466e+00 +- 3.5e-03 pb
+NLO/result_WR1000_N300_NLO/WRtoNLtoLLJJ_WR1000_N300_NLO.log | cross section:       Total cross section: 3.223e+00 +- 3.0e-03 pb
+NLO/result_WR1000_N400_NLO/WRtoNLtoLLJJ_WR1000_N400_NLO.log | cross section:       Total cross section: 2.893e+00 +- 2.6e-03 pb
+NLO/result_WR1000_N500_NLO/WRtoNLtoLLJJ_WR1000_N500_NLO.log | cross section:       Total cross section: 2.469e+00 +- 2.0e-03 pb
+NLO/result_WR1000_N600_NLO/WRtoNLtoLLJJ_WR1000_N600_NLO.log | cross section:       Total cross section: 1.952e+00 +- 1.6e-03 pb
+NLO/result_WR1000_N700_NLO/WRtoNLtoLLJJ_WR1000_N700_NLO.log | cross section:       Total cross section: 1.366e+00 +- 1.1e-03 pb
+NLO/result_WR1000_N800_NLO/WRtoNLtoLLJJ_WR1000_N800_NLO.log | cross section:       Total cross section: 7.607e-01 +- 6.4e-04 pb
+NLO/result_WR1000_N900_NLO/WRtoNLtoLLJJ_WR1000_N900_NLO.log | cross section:       Total cross section: 2.526e-01 +- 2.2e-04 pb
+NLO/result_WR1500_N1000_NLO/WRtoNLtoLLJJ_WR1500_N1000_NLO.log | cross section:       Total cross section: 2.719e-01 +- 2.2e-04 pb
+NLO/result_WR1500_N100_NLO/WRtoNLtoLLJJ_WR1500_N100_NLO.log | cross section:       Total cross section: 6.479e-01 +- 5.8e-04 pb
+NLO/result_WR1500_N1100_NLO/WRtoNLtoLLJJ_WR1500_N1100_NLO.log | cross section:       Total cross section: 2.012e-01 +- 1.8e-04 pb
+NLO/result_WR1500_N1200_NLO/WRtoNLtoLLJJ_WR1500_N1200_NLO.log | cross section:       Total cross section: 1.312e-01 +- 1.1e-04 pb
+NLO/result_WR1500_N1300_NLO/WRtoNLtoLLJJ_WR1500_N1300_NLO.log | cross section:       Total cross section: 6.869e-02 +- 5.8e-05 pb
+NLO/result_WR1500_N1400_NLO/WRtoNLtoLLJJ_WR1500_N1400_NLO.log | cross section:       Total cross section: 2.276e-02 +- 2.0e-05 pb
+NLO/result_WR1500_N200_NLO/WRtoNLtoLLJJ_WR1500_N200_NLO.log | cross section:       Total cross section: 6.325e-01 +- 6.7e-04 pb
+NLO/result_WR1500_N300_NLO/WRtoNLtoLLJJ_WR1500_N300_NLO.log | cross section:       Total cross section: 6.105e-01 +- 5.9e-04 pb
+NLO/result_WR1500_N400_NLO/WRtoNLtoLLJJ_WR1500_N400_NLO.log | cross section:       Total cross section: 5.825e-01 +- 5.2e-04 pb
+NLO/result_WR1500_N500_NLO/WRtoNLtoLLJJ_WR1500_N500_NLO.log | cross section:       Total cross section: 5.473e-01 +- 4.9e-04 pb
+NLO/result_WR1500_N600_NLO/WRtoNLtoLLJJ_WR1500_N600_NLO.log | cross section:       Total cross section: 5.062e-01 +- 4.3e-04 pb
+NLO/result_WR1500_N700_NLO/WRtoNLtoLLJJ_WR1500_N700_NLO.log | cross section:       Total cross section: 4.571e-01 +- 3.9e-04 pb
+NLO/result_WR1500_N800_NLO/WRtoNLtoLLJJ_WR1500_N800_NLO.log | cross section:       Total cross section: 4.017e-01 +- 3.3e-04 pb
+NLO/result_WR1500_N900_NLO/WRtoNLtoLLJJ_WR1500_N900_NLO.log | cross section:       Total cross section: 3.397e-01 +- 2.9e-04 pb
+NLO/result_WR2000_N1000_NLO/WRtoNLtoLLJJ_WR2000_N1000_NLO.log | cross section:       Total cross section: 1.045e-01 +- 9.5e-05 pb
+NLO/result_WR2000_N100_NLO/WRtoNLtoLLJJ_WR2000_N100_NLO.log | cross section:       Total cross section: 1.620e-01 +- 1.6e-04 pb
+NLO/result_WR2000_N1100_NLO/WRtoNLtoLLJJ_WR2000_N1100_NLO.log | cross section:       Total cross section: 9.391e-02 +- 8.1e-05 pb
+NLO/result_WR2000_N1200_NLO/WRtoNLtoLLJJ_WR2000_N1200_NLO.log | cross section:       Total cross section: 8.226e-02 +- 7.0e-05 pb
+NLO/result_WR2000_N1300_NLO/WRtoNLtoLLJJ_WR2000_N1300_NLO.log | cross section:       Total cross section: 6.992e-02 +- 6.2e-05 pb
+NLO/result_WR2000_N1400_NLO/WRtoNLtoLLJJ_WR2000_N1400_NLO.log | cross section:       Total cross section: 5.711e-02 +- 5.0e-05 pb
+NLO/result_WR2000_N1500_NLO/WRtoNLtoLLJJ_WR2000_N1500_NLO.log | cross section:       Total cross section: 4.414e-02 +- 4.1e-05 pb
+NLO/result_WR2000_N1600_NLO/WRtoNLtoLLJJ_WR2000_N1600_NLO.log | cross section:       Total cross section: 3.146e-02 +- 2.7e-05 pb
+NLO/result_WR2000_N1700_NLO/WRtoNLtoLLJJ_WR2000_N1700_NLO.log | cross section:       Total cross section: 1.987e-02 +- 1.7e-05 pb
+NLO/result_WR2000_N1800_NLO/WRtoNLtoLLJJ_WR2000_N1800_NLO.log | cross section:       Total cross section: 1.018e-02 +- 8.8e-06 pb
+NLO/result_WR2000_N1900_NLO/WRtoNLtoLLJJ_WR2000_N1900_NLO.log | cross section:       Total cross section: 3.495e-03 +- 3.3e-06 pb
+NLO/result_WR2000_N200_NLO/WRtoNLtoLLJJ_WR2000_N200_NLO.log | cross section:       Total cross section: 1.587e-01 +- 1.5e-04 pb
+NLO/result_WR2000_N300_NLO/WRtoNLtoLLJJ_WR2000_N300_NLO.log | cross section:       Total cross section: 1.551e-01 +- 1.7e-04 pb
+NLO/result_WR2000_N400_NLO/WRtoNLtoLLJJ_WR2000_N400_NLO.log | cross section:       Total cross section: 1.502e-01 +- 1.5e-04 pb
+NLO/result_WR2000_N500_NLO/WRtoNLtoLLJJ_WR2000_N500_NLO.log | cross section:       Total cross section: 1.447e-01 +- 1.4e-04 pb
+NLO/result_WR2000_N600_NLO/WRtoNLtoLLJJ_WR2000_N600_NLO.log | cross section:       Total cross section: 1.385e-01 +- 1.3e-04 pb
+NLO/result_WR2000_N700_NLO/WRtoNLtoLLJJ_WR2000_N700_NLO.log | cross section:       Total cross section: 1.315e-01 +- 1.2e-04 pb
+NLO/result_WR2000_N800_NLO/WRtoNLtoLLJJ_WR2000_N800_NLO.log | cross section:       Total cross section: 1.235e-01 +- 1.2e-04 pb
+NLO/result_WR2000_N900_NLO/WRtoNLtoLLJJ_WR2000_N900_NLO.log | cross section:       Total cross section: 1.145e-01 +- 9.8e-05 pb
+NLO/result_WR2500_N1000_NLO/WRtoNLtoLLJJ_WR2500_N1000_NLO.log | cross section:       Total cross section: 3.539e-02 +- 3.3e-05 pb
+NLO/result_WR2500_N100_NLO/WRtoNLtoLLJJ_WR2500_N100_NLO.log | cross section:       Total cross section: 4.814e-02 +- 5.0e-05 pb
+NLO/result_WR2500_N1100_NLO/WRtoNLtoLLJJ_WR2500_N1100_NLO.log | cross section:       Total cross section: 3.330e-02 +- 3.2e-05 pb
+NLO/result_WR2500_N1200_NLO/WRtoNLtoLLJJ_WR2500_N1200_NLO.log | cross section:       Total cross section: 3.105e-02 +- 2.9e-05 pb
+NLO/result_WR2500_N1300_NLO/WRtoNLtoLLJJ_WR2500_N1300_NLO.log | cross section:       Total cross section: 2.864e-02 +- 2.7e-05 pb
+NLO/result_WR2500_N1400_NLO/WRtoNLtoLLJJ_WR2500_N1400_NLO.log | cross section:       Total cross section: 2.609e-02 +- 2.4e-05 pb
+NLO/result_WR2500_N1500_NLO/WRtoNLtoLLJJ_WR2500_N1500_NLO.log | cross section:       Total cross section: 2.339e-02 +- 2.2e-05 pb
+NLO/result_WR2500_N1600_NLO/WRtoNLtoLLJJ_WR2500_N1600_NLO.log | cross section:       Total cross section: 2.058e-02 +- 1.9e-05 pb
+NLO/result_WR2500_N1700_NLO/WRtoNLtoLLJJ_WR2500_N1700_NLO.log | cross section:       Total cross section: 1.765e-02 +- 1.5e-05 pb
+NLO/result_WR2500_N1800_NLO/WRtoNLtoLLJJ_WR2500_N1800_NLO.log | cross section:       Total cross section: 1.469e-02 +- 1.4e-05 pb
+NLO/result_WR2500_N1900_NLO/WRtoNLtoLLJJ_WR2500_N1900_NLO.log | cross section:       Total cross section: 1.174e-02 +- 1.1e-05 pb
+NLO/result_WR2500_N2000_NLO/WRtoNLtoLLJJ_WR2500_N2000_NLO.log | cross section:       Total cross section: 8.874e-03 +- 8.5e-06 pb
+NLO/result_WR2500_N200_NLO/WRtoNLtoLLJJ_WR2500_N200_NLO.log | cross section:       Total cross section: 4.698e-02 +- 5.1e-05 pb
+NLO/result_WR2500_N2100_NLO/WRtoNLtoLLJJ_WR2500_N2100_NLO.log | cross section:       Total cross section: 6.201e-03 +- 5.6e-06 pb
+NLO/result_WR2500_N2200_NLO/WRtoNLtoLLJJ_WR2500_N2200_NLO.log | cross section:       Total cross section: 3.846e-03 +- 3.6e-06 pb
+NLO/result_WR2500_N2300_NLO/WRtoNLtoLLJJ_WR2500_N2300_NLO.log | cross section:       Total cross section: 1.966e-03 +- 1.8e-06 pb
+NLO/result_WR2500_N2400_NLO/WRtoNLtoLLJJ_WR2500_N2400_NLO.log | cross section:       Total cross section: 7.045e-04 +- 6.0e-07 pb
+NLO/result_WR2500_N300_NLO/WRtoNLtoLLJJ_WR2500_N300_NLO.log | cross section:       Total cross section: 4.593e-02 +- 4.3e-05 pb
+NLO/result_WR2500_N400_NLO/WRtoNLtoLLJJ_WR2500_N400_NLO.log | cross section:       Total cross section: 4.483e-02 +- 4.4e-05 pb
+NLO/result_WR2500_N500_NLO/WRtoNLtoLLJJ_WR2500_N500_NLO.log | cross section:       Total cross section: 4.363e-02 +- 4.7e-05 pb
+NLO/result_WR2500_N600_NLO/WRtoNLtoLLJJ_WR2500_N600_NLO.log | cross section:       Total cross section: 4.221e-02 +- 3.9e-05 pb
+NLO/result_WR2500_N700_NLO/WRtoNLtoLLJJ_WR2500_N700_NLO.log | cross section:       Total cross section: 4.079e-02 +- 3.9e-05 pb
+NLO/result_WR2500_N800_NLO/WRtoNLtoLLJJ_WR2500_N800_NLO.log | cross section:       Total cross section: 3.913e-02 +- 3.7e-05 pb
+NLO/result_WR2500_N900_NLO/WRtoNLtoLLJJ_WR2500_N900_NLO.log | cross section:       Total cross section: 3.737e-02 +- 3.5e-05 pb
+NLO/result_WR3000_N1000_NLO/WRtoNLtoLLJJ_WR3000_N1000_NLO.log | cross section:       Total cross section: 1.218e-02 +- 1.2e-05 pb
+NLO/result_WR3000_N100_NLO/WRtoNLtoLLJJ_WR3000_N100_NLO.log | cross section:       Total cross section: 1.600e-02 +- 1.7e-05 pb
+NLO/result_WR3000_N1100_NLO/WRtoNLtoLLJJ_WR3000_N1100_NLO.log | cross section:       Total cross section: 1.168e-02 +- 1.1e-05 pb
+NLO/result_WR3000_N1200_NLO/WRtoNLtoLLJJ_WR3000_N1200_NLO.log | cross section:       Total cross section: 1.114e-02 +- 1.1e-05 pb
+NLO/result_WR3000_N1300_NLO/WRtoNLtoLLJJ_WR3000_N1300_NLO.log | cross section:       Total cross section: 1.058e-02 +- 1.0e-05 pb
+NLO/result_WR3000_N1400_NLO/WRtoNLtoLLJJ_WR3000_N1400_NLO.log | cross section:       Total cross section: 9.984e-03 +- 9.6e-06 pb
+NLO/result_WR3000_N1500_NLO/WRtoNLtoLLJJ_WR3000_N1500_NLO.log | cross section:       Total cross section: 9.359e-03 +- 8.9e-06 pb
+NLO/result_WR3000_N1600_NLO/WRtoNLtoLLJJ_WR3000_N1600_NLO.log | cross section:       Total cross section: 8.695e-03 +- 8.0e-06 pb
+NLO/result_WR3000_N1700_NLO/WRtoNLtoLLJJ_WR3000_N1700_NLO.log | cross section:       Total cross section: 8.003e-03 +- 7.0e-06 pb
+NLO/result_WR3000_N1800_NLO/WRtoNLtoLLJJ_WR3000_N1800_NLO.log | cross section:       Total cross section: 7.293e-03 +- 6.9e-06 pb
+NLO/result_WR3000_N1900_NLO/WRtoNLtoLLJJ_WR3000_N1900_NLO.log | cross section:       Total cross section: 6.555e-03 +- 6.1e-06 pb
+NLO/result_WR3000_N2000_NLO/WRtoNLtoLLJJ_WR3000_N2000_NLO.log | cross section:       Total cross section: 5.796e-03 +- 5.5e-06 pb
+NLO/result_WR3000_N200_NLO/WRtoNLtoLLJJ_WR3000_N200_NLO.log | cross section:       Total cross section: 1.558e-02 +- 1.5e-05 pb
+NLO/result_WR3000_N2100_NLO/WRtoNLtoLLJJ_WR3000_N2100_NLO.log | cross section:       Total cross section: 5.023e-03 +- 4.6e-06 pb
+NLO/result_WR3000_N2200_NLO/WRtoNLtoLLJJ_WR3000_N2200_NLO.log | cross section:       Total cross section: 4.250e-03 +- 4.0e-06 pb
+NLO/result_WR3000_N2300_NLO/WRtoNLtoLLJJ_WR3000_N2300_NLO.log | cross section:       Total cross section: 3.481e-03 +- 3.3e-06 pb
+NLO/result_WR3000_N2400_NLO/WRtoNLtoLLJJ_WR3000_N2400_NLO.log | cross section:       Total cross section: 2.738e-03 +- 2.6e-06 pb
+NLO/result_WR3000_N2500_NLO/WRtoNLtoLLJJ_WR3000_N2500_NLO.log | cross section:       Total cross section: 2.041e-03 +- 1.9e-06 pb
+NLO/result_WR3000_N2600_NLO/WRtoNLtoLLJJ_WR3000_N2600_NLO.log | cross section:       Total cross section: 1.410e-03 +- 1.3e-06 pb
+NLO/result_WR3000_N2700_NLO/WRtoNLtoLLJJ_WR3000_N2700_NLO.log | cross section:       Total cross section: 8.674e-04 +- 7.7e-07 pb
+NLO/result_WR3000_N2800_NLO/WRtoNLtoLLJJ_WR3000_N2800_NLO.log | cross section:       Total cross section: 4.443e-04 +- 3.3e-07 pb
+NLO/result_WR3000_N2900_NLO/WRtoNLtoLLJJ_WR3000_N2900_NLO.log | cross section:       Total cross section: 1.670e-04 +- 1.3e-07 pb
+NLO/result_WR3000_N300_NLO/WRtoNLtoLLJJ_WR3000_N300_NLO.log | cross section:       Total cross section: 1.515e-02 +- 1.4e-05 pb
+NLO/result_WR3000_N400_NLO/WRtoNLtoLLJJ_WR3000_N400_NLO.log | cross section:       Total cross section: 1.476e-02 +- 1.5e-05 pb
+NLO/result_WR3000_N500_NLO/WRtoNLtoLLJJ_WR3000_N500_NLO.log | cross section:       Total cross section: 1.435e-02 +- 1.4e-05 pb
+NLO/result_WR3000_N600_NLO/WRtoNLtoLLJJ_WR3000_N600_NLO.log | cross section:       Total cross section: 1.396e-02 +- 1.3e-05 pb
+NLO/result_WR3000_N700_NLO/WRtoNLtoLLJJ_WR3000_N700_NLO.log | cross section:       Total cross section: 1.355e-02 +- 1.1e-05 pb
+NLO/result_WR3000_N800_NLO/WRtoNLtoLLJJ_WR3000_N800_NLO.log | cross section:       Total cross section: 1.310e-02 +- 1.1e-05 pb
+NLO/result_WR3000_N900_NLO/WRtoNLtoLLJJ_WR3000_N900_NLO.log | cross section:       Total cross section: 1.265e-02 +- 9.8e-06 pb
+NLO/result_WR3500_N1000_NLO/WRtoNLtoLLJJ_WR3500_N1000_NLO.log | cross section:       Total cross section: 4.388e-03 +- 3.6e-06 pb
+NLO/result_WR3500_N100_NLO/WRtoNLtoLLJJ_WR3500_N100_NLO.log | cross section:       Total cross section: 5.862e-03 +- 5.6e-06 pb
+NLO/result_WR3500_N1100_NLO/WRtoNLtoLLJJ_WR3500_N1100_NLO.log | cross section:       Total cross section: 4.241e-03 +- 3.3e-06 pb
+NLO/result_WR3500_N1200_NLO/WRtoNLtoLLJJ_WR3500_N1200_NLO.log | cross section:       Total cross section: 4.081e-03 +- 3.1e-06 pb
+NLO/result_WR3500_N1300_NLO/WRtoNLtoLLJJ_WR3500_N1300_NLO.log | cross section:       Total cross section: 3.923e-03 +- 3.4e-06 pb
+NLO/result_WR3500_N1400_NLO/WRtoNLtoLLJJ_WR3500_N1400_NLO.log | cross section:       Total cross section: 3.757e-03 +- 3.7e-06 pb
+NLO/result_WR3500_N1500_NLO/WRtoNLtoLLJJ_WR3500_N1500_NLO.log | cross section:       Total cross section: 3.584e-03 +- 3.6e-06 pb
+NLO/result_WR3500_N1600_NLO/WRtoNLtoLLJJ_WR3500_N1600_NLO.log | cross section:       Total cross section: 3.408e-03 +- 3.4e-06 pb
+NLO/result_WR3500_N1700_NLO/WRtoNLtoLLJJ_WR3500_N1700_NLO.log | cross section:       Total cross section: 3.224e-03 +- 3.2e-06 pb
+NLO/result_WR3500_N1800_NLO/WRtoNLtoLLJJ_WR3500_N1800_NLO.log | cross section:       Total cross section: 3.037e-03 +- 3.0e-06 pb
+NLO/result_WR3500_N1900_NLO/WRtoNLtoLLJJ_WR3500_N1900_NLO.log | cross section:       Total cross section: 2.837e-03 +- 2.7e-06 pb
+NLO/result_WR3500_N2000_NLO/WRtoNLtoLLJJ_WR3500_N2000_NLO.log | cross section:       Total cross section: 2.634e-03 +- 2.5e-06 pb
+NLO/result_WR3500_N200_NLO/WRtoNLtoLLJJ_WR3500_N200_NLO.log | cross section:       Total cross section: 5.652e-03 +- 5.7e-06 pb
+NLO/result_WR3500_N2100_NLO/WRtoNLtoLLJJ_WR3500_N2100_NLO.log | cross section:       Total cross section: 2.426e-03 +- 2.3e-06 pb
+NLO/result_WR3500_N2200_NLO/WRtoNLtoLLJJ_WR3500_N2200_NLO.log | cross section:       Total cross section: 2.210e-03 +- 1.9e-06 pb
+NLO/result_WR3500_N2300_NLO/WRtoNLtoLLJJ_WR3500_N2300_NLO.log | cross section:       Total cross section: 1.996e-03 +- 1.9e-06 pb
+NLO/result_WR3500_N2400_NLO/WRtoNLtoLLJJ_WR3500_N2400_NLO.log | cross section:       Total cross section: 1.776e-03 +- 1.7e-06 pb
+NLO/result_WR3500_N2500_NLO/WRtoNLtoLLJJ_WR3500_N2500_NLO.log | cross section:       Total cross section: 1.553e-03 +- 1.5e-06 pb
+NLO/result_WR3500_N2600_NLO/WRtoNLtoLLJJ_WR3500_N2600_NLO.log | cross section:       Total cross section: 1.333e-03 +- 1.3e-06 pb
+NLO/result_WR3500_N2700_NLO/WRtoNLtoLLJJ_WR3500_N2700_NLO.log | cross section:       Total cross section: 1.114e-03 +- 1.1e-06 pb
+NLO/result_WR3500_N2800_NLO/WRtoNLtoLLJJ_WR3500_N2800_NLO.log | cross section:       Total cross section: 9.049e-04 +- 8.7e-07 pb
+NLO/result_WR3500_N2900_NLO/WRtoNLtoLLJJ_WR3500_N2900_NLO.log | cross section:       Total cross section: 7.046e-04 +- 6.9e-07 pb
+NLO/result_WR3500_N3000_NLO/WRtoNLtoLLJJ_WR3500_N3000_NLO.log | cross section:       Total cross section: 5.196e-04 +- 5.0e-07 pb
+NLO/result_WR3500_N300_NLO/WRtoNLtoLLJJ_WR3500_N300_NLO.log | cross section:       Total cross section: 5.461e-03 +- 5.9e-06 pb
+NLO/result_WR3500_N3100_NLO/WRtoNLtoLLJJ_WR3500_N3100_NLO.log | cross section:       Total cross section: 3.563e-04 +- 3.4e-07 pb
+NLO/result_WR3500_N3200_NLO/WRtoNLtoLLJJ_WR3500_N3200_NLO.log | cross section:       Total cross section: 2.187e-04 +- 2.1e-07 pb
+NLO/result_WR3500_N3300_NLO/WRtoNLtoLLJJ_WR3500_N3300_NLO.log | cross section:       Total cross section: 1.131e-04 +- 8.8e-08 pb
+NLO/result_WR3500_N3400_NLO/WRtoNLtoLLJJ_WR3500_N3400_NLO.log | cross section:       Total cross section: 4.488e-05 +- 3.7e-08 pb
+NLO/result_WR3500_N400_NLO/WRtoNLtoLLJJ_WR3500_N400_NLO.log | cross section:       Total cross section: 5.297e-03 +- 5.0e-06 pb
+NLO/result_WR3500_N500_NLO/WRtoNLtoLLJJ_WR3500_N500_NLO.log | cross section:       Total cross section: 5.135e-03 +- 4.9e-06 pb
+NLO/result_WR3500_N600_NLO/WRtoNLtoLLJJ_WR3500_N600_NLO.log | cross section:       Total cross section: 4.980e-03 +- 5.3e-06 pb
+NLO/result_WR3500_N700_NLO/WRtoNLtoLLJJ_WR3500_N700_NLO.log | cross section:       Total cross section: 4.832e-03 +- 4.8e-06 pb
+NLO/result_WR3500_N800_NLO/WRtoNLtoLLJJ_WR3500_N800_NLO.log | cross section:       Total cross section: 4.688e-03 +- 4.3e-06 pb
+NLO/result_WR3500_N900_NLO/WRtoNLtoLLJJ_WR3500_N900_NLO.log | cross section:       Total cross section: 4.540e-03 +- 4.0e-06 pb
+NLO/result_WR4000_N1000_NLO/WRtoNLtoLLJJ_WR4000_N1000_NLO.log | cross section:       Total cross section: 1.692e-03 +- 1.6e-06 pb
+NLO/result_WR4000_N100_NLO/WRtoNLtoLLJJ_WR4000_N100_NLO.log | cross section:       Total cross section: 2.399e-03 +- 2.4e-06 pb
+NLO/result_WR4000_N1100_NLO/WRtoNLtoLLJJ_WR4000_N1100_NLO.log | cross section:       Total cross section: 1.633e-03 +- 1.5e-06 pb
+NLO/result_WR4000_N1200_NLO/WRtoNLtoLLJJ_WR4000_N1200_NLO.log | cross section:       Total cross section: 1.579e-03 +- 1.4e-06 pb
+NLO/result_WR4000_N1300_NLO/WRtoNLtoLLJJ_WR4000_N1300_NLO.log | cross section:       Total cross section: 1.524e-03 +- 1.3e-06 pb
+NLO/result_WR4000_N1400_NLO/WRtoNLtoLLJJ_WR4000_N1400_NLO.log | cross section:       Total cross section: 1.469e-03 +- 1.2e-06 pb
+NLO/result_WR4000_N1500_NLO/WRtoNLtoLLJJ_WR4000_N1500_NLO.log | cross section:       Total cross section: 1.415e-03 +- 1.1e-06 pb
+NLO/result_WR4000_N1600_NLO/WRtoNLtoLLJJ_WR4000_N1600_NLO.log | cross section:       Total cross section: 1.359e-03 +- 1.1e-06 pb
+NLO/result_WR4000_N1700_NLO/WRtoNLtoLLJJ_WR4000_N1700_NLO.log | cross section:       Total cross section: 1.301e-03 +- 1.0e-06 pb
+NLO/result_WR4000_N1800_NLO/WRtoNLtoLLJJ_WR4000_N1800_NLO.log | cross section:       Total cross section: 1.242e-03 +- 9.8e-07 pb
+NLO/result_WR4000_N1900_NLO/WRtoNLtoLLJJ_WR4000_N1900_NLO.log | cross section:       Total cross section: 1.184e-03 +- 9.8e-07 pb
+NLO/result_WR4000_N2000_NLO/WRtoNLtoLLJJ_WR4000_N2000_NLO.log | cross section:       Total cross section: 1.122e-03 +- 8.5e-07 pb
+NLO/result_WR4000_N200_NLO/WRtoNLtoLLJJ_WR4000_N200_NLO.log | cross section:       Total cross section: 2.271e-03 +- 2.4e-06 pb
+NLO/result_WR4000_N2100_NLO/WRtoNLtoLLJJ_WR4000_N2100_NLO.log | cross section:       Total cross section: 1.060e-03 +- 8.0e-07 pb
+NLO/result_WR4000_N2200_NLO/WRtoNLtoLLJJ_WR4000_N2200_NLO.log | cross section:       Total cross section: 9.962e-04 +- 7.5e-07 pb
+NLO/result_WR4000_N2300_NLO/WRtoNLtoLLJJ_WR4000_N2300_NLO.log | cross section:       Total cross section: 9.328e-04 +- 8.2e-07 pb
+NLO/result_WR4000_N2400_NLO/WRtoNLtoLLJJ_WR4000_N2400_NLO.log | cross section:       Total cross section: 8.660e-04 +- 8.4e-07 pb
+NLO/result_WR4000_N2500_NLO/WRtoNLtoLLJJ_WR4000_N2500_NLO.log | cross section:       Total cross section: 7.985e-04 +- 7.7e-07 pb
+NLO/result_WR4000_N2600_NLO/WRtoNLtoLLJJ_WR4000_N2600_NLO.log | cross section:       Total cross section: 7.301e-04 +- 7.1e-07 pb
+NLO/result_WR4000_N2700_NLO/WRtoNLtoLLJJ_WR4000_N2700_NLO.log | cross section:       Total cross section: 6.606e-04 +- 6.3e-07 pb
+NLO/result_WR4000_N2800_NLO/WRtoNLtoLLJJ_WR4000_N2800_NLO.log | cross section:       Total cross section: 5.916e-04 +- 5.6e-07 pb
+NLO/result_WR4000_N2900_NLO/WRtoNLtoLLJJ_WR4000_N2900_NLO.log | cross section:       Total cross section: 5.224e-04 +- 5.0e-07 pb
+NLO/result_WR4000_N3000_NLO/WRtoNLtoLLJJ_WR4000_N3000_NLO.log | cross section:       Total cross section: 4.532e-04 +- 3.9e-07 pb
+NLO/result_WR4000_N300_NLO/WRtoNLtoLLJJ_WR4000_N300_NLO.log | cross section:       Total cross section: 2.173e-03 +- 2.2e-06 pb
+NLO/result_WR4000_N3100_NLO/WRtoNLtoLLJJ_WR4000_N3100_NLO.log | cross section:       Total cross section: 3.854e-04 +- 3.3e-07 pb
+NLO/result_WR4000_N3200_NLO/WRtoNLtoLLJJ_WR4000_N3200_NLO.log | cross section:       Total cross section: 3.205e-04 +- 2.7e-07 pb
+NLO/result_WR4000_N3300_NLO/WRtoNLtoLLJJ_WR4000_N3300_NLO.log | cross section:       Total cross section: 2.580e-04 +- 2.5e-07 pb
+NLO/result_WR4000_N3400_NLO/WRtoNLtoLLJJ_WR4000_N3400_NLO.log | cross section:       Total cross section: 1.997e-04 +- 2.0e-07 pb
+NLO/result_WR4000_N3500_NLO/WRtoNLtoLLJJ_WR4000_N3500_NLO.log | cross section:       Total cross section: 1.465e-04 +- 1.3e-07 pb
+NLO/result_WR4000_N3600_NLO/WRtoNLtoLLJJ_WR4000_N3600_NLO.log | cross section:       Total cross section: 9.992e-05 +- 7.5e-08 pb
+NLO/result_WR4000_N3700_NLO/WRtoNLtoLLJJ_WR4000_N3700_NLO.log | cross section:       Total cross section: 6.155e-05 +- 4.8e-08 pb
+NLO/result_WR4000_N3800_NLO/WRtoNLtoLLJJ_WR4000_N3800_NLO.log | cross section:       Total cross section: 3.242e-05 +- 2.6e-08 pb
+NLO/result_WR4000_N3900_NLO/WRtoNLtoLLJJ_WR4000_N3900_NLO.log | cross section:       Total cross section: 1.364e-05 +- 1.2e-08 pb
+NLO/result_WR4000_N400_NLO/WRtoNLtoLLJJ_WR4000_N400_NLO.log | cross section:       Total cross section: 2.083e-03 +- 2.2e-06 pb
+NLO/result_WR4000_N500_NLO/WRtoNLtoLLJJ_WR4000_N500_NLO.log | cross section:       Total cross section: 2.004e-03 +- 1.9e-06 pb
+NLO/result_WR4000_N600_NLO/WRtoNLtoLLJJ_WR4000_N600_NLO.log | cross section:       Total cross section: 1.931e-03 +- 1.7e-06 pb
+NLO/result_WR4000_N700_NLO/WRtoNLtoLLJJ_WR4000_N700_NLO.log | cross section:       Total cross section: 1.867e-03 +- 1.6e-06 pb
+NLO/result_WR4000_N800_NLO/WRtoNLtoLLJJ_WR4000_N800_NLO.log | cross section:       Total cross section: 1.806e-03 +- 1.5e-06 pb
+NLO/result_WR4000_N900_NLO/WRtoNLtoLLJJ_WR4000_N900_NLO.log | cross section:       Total cross section: 1.746e-03 +- 1.8e-06 pb
+NLO/result_WR4500_N1000_NLO/WRtoNLtoLLJJ_WR4500_N1000_NLO.log | cross section:       Total cross section: 7.164e-04 +- 6.4e-07 pb
+NLO/result_WR4500_N100_NLO/WRtoNLtoLLJJ_WR4500_N100_NLO.log | cross section:       Total cross section: 1.111e-03 +- 1.1e-06 pb
+NLO/result_WR4500_N1100_NLO/WRtoNLtoLLJJ_WR4500_N1100_NLO.log | cross section:       Total cross section: 6.912e-04 +- 6.1e-07 pb
+NLO/result_WR4500_N1200_NLO/WRtoNLtoLLJJ_WR4500_N1200_NLO.log | cross section:       Total cross section: 6.676e-04 +- 5.7e-07 pb
+NLO/result_WR4500_N1300_NLO/WRtoNLtoLLJJ_WR4500_N1300_NLO.log | cross section:       Total cross section: 6.444e-04 +- 5.9e-07 pb
+NLO/result_WR4500_N1400_NLO/WRtoNLtoLLJJ_WR4500_N1400_NLO.log | cross section:       Total cross section: 6.224e-04 +- 5.6e-07 pb
+NLO/result_WR4500_N1500_NLO/WRtoNLtoLLJJ_WR4500_N1500_NLO.log | cross section:       Total cross section: 6.007e-04 +- 5.7e-07 pb
+NLO/result_WR4500_N1600_NLO/WRtoNLtoLLJJ_WR4500_N1600_NLO.log | cross section:       Total cross section: 5.791e-04 +- 5.1e-07 pb
+NLO/result_WR4500_N1700_NLO/WRtoNLtoLLJJ_WR4500_N1700_NLO.log | cross section:       Total cross section: 5.586e-04 +- 4.9e-07 pb
+NLO/result_WR4500_N1800_NLO/WRtoNLtoLLJJ_WR4500_N1800_NLO.log | cross section:       Total cross section: 5.376e-04 +- 4.5e-07 pb
+NLO/result_WR4500_N1900_NLO/WRtoNLtoLLJJ_WR4500_N1900_NLO.log | cross section:       Total cross section: 5.160e-04 +- 4.3e-07 pb
+NLO/result_WR4500_N2000_NLO/WRtoNLtoLLJJ_WR4500_N2000_NLO.log | cross section:       Total cross section: 4.947e-04 +- 4.1e-07 pb
+NLO/result_WR4500_N200_NLO/WRtoNLtoLLJJ_WR4500_N200_NLO.log | cross section:       Total cross section: 1.034e-03 +- 1.1e-06 pb
+NLO/result_WR4500_N2100_NLO/WRtoNLtoLLJJ_WR4500_N2100_NLO.log | cross section:       Total cross section: 4.726e-04 +- 3.9e-07 pb
+NLO/result_WR4500_N2200_NLO/WRtoNLtoLLJJ_WR4500_N2200_NLO.log | cross section:       Total cross section: 4.512e-04 +- 3.6e-07 pb
+NLO/result_WR4500_N2300_NLO/WRtoNLtoLLJJ_WR4500_N2300_NLO.log | cross section:       Total cross section: 4.291e-04 +- 3.4e-07 pb
+NLO/result_WR4500_N2400_NLO/WRtoNLtoLLJJ_WR4500_N2400_NLO.log | cross section:       Total cross section: 4.069e-04 +- 3.1e-07 pb
+NLO/result_WR4500_N2500_NLO/WRtoNLtoLLJJ_WR4500_N2500_NLO.log | cross section:       Total cross section: 3.844e-04 +- 2.9e-07 pb
+NLO/result_WR4500_N2600_NLO/WRtoNLtoLLJJ_WR4500_N2600_NLO.log | cross section:       Total cross section: 3.612e-04 +- 2.6e-07 pb
+NLO/result_WR4500_N2700_NLO/WRtoNLtoLLJJ_WR4500_N2700_NLO.log | cross section:       Total cross section: 3.379e-04 +- 2.5e-07 pb
+NLO/result_WR4500_N2800_NLO/WRtoNLtoLLJJ_WR4500_N2800_NLO.log | cross section:       Total cross section: 3.145e-04 +- 2.3e-07 pb
+NLO/result_WR4500_N2900_NLO/WRtoNLtoLLJJ_WR4500_N2900_NLO.log | cross section:       Total cross section: 2.908e-04 +- 2.5e-07 pb
+NLO/result_WR4500_N3000_NLO/WRtoNLtoLLJJ_WR4500_N3000_NLO.log | cross section:       Total cross section: 2.666e-04 +- 2.3e-07 pb
+NLO/result_WR4500_N300_NLO/WRtoNLtoLLJJ_WR4500_N300_NLO.log | cross section:       Total cross section: 9.716e-04 +- 9.9e-07 pb
+NLO/result_WR4500_N3100_NLO/WRtoNLtoLLJJ_WR4500_N3100_NLO.log | cross section:       Total cross section: 2.426e-04 +- 2.3e-07 pb
+NLO/result_WR4500_N3200_NLO/WRtoNLtoLLJJ_WR4500_N3200_NLO.log | cross section:       Total cross section: 2.185e-04 +- 2.1e-07 pb
+NLO/result_WR4500_N3300_NLO/WRtoNLtoLLJJ_WR4500_N3300_NLO.log | cross section:       Total cross section: 1.943e-04 +- 1.7e-07 pb
+NLO/result_WR4500_N3400_NLO/WRtoNLtoLLJJ_WR4500_N3400_NLO.log | cross section:       Total cross section: 1.705e-04 +- 1.5e-07 pb
+NLO/result_WR4500_N3500_NLO/WRtoNLtoLLJJ_WR4500_N3500_NLO.log | cross section:       Total cross section: 1.473e-04 +- 1.4e-07 pb
+NLO/result_WR4500_N3600_NLO/WRtoNLtoLLJJ_WR4500_N3600_NLO.log | cross section:       Total cross section: 1.245e-04 +- 1.2e-07 pb
+NLO/result_WR4500_N3700_NLO/WRtoNLtoLLJJ_WR4500_N3700_NLO.log | cross section:       Total cross section: 1.028e-04 +- 8.9e-08 pb
+NLO/result_WR4500_N3800_NLO/WRtoNLtoLLJJ_WR4500_N3800_NLO.log | cross section:       Total cross section: 8.247e-05 +- 8.0e-08 pb
+NLO/result_WR4500_N3900_NLO/WRtoNLtoLLJJ_WR4500_N3900_NLO.log | cross section:       Total cross section: 6.360e-05 +- 5.5e-08 pb
+NLO/result_WR4500_N4000_NLO/WRtoNLtoLLJJ_WR4500_N4000_NLO.log | cross section:       Total cross section: 4.656e-05 +- 3.4e-08 pb
+NLO/result_WR4500_N400_NLO/WRtoNLtoLLJJ_WR4500_N400_NLO.log | cross section:       Total cross section: 9.209e-04 +- 1.0e-06 pb
+NLO/result_WR4500_N4100_NLO/WRtoNLtoLLJJ_WR4500_N4100_NLO.log | cross section:       Total cross section: 3.187e-05 +- 2.4e-08 pb
+NLO/result_WR4500_N4200_NLO/WRtoNLtoLLJJ_WR4500_N4200_NLO.log | cross section:       Total cross section: 1.978e-05 +- 1.6e-08 pb
+NLO/result_WR4500_N4300_NLO/WRtoNLtoLLJJ_WR4500_N4300_NLO.log | cross section:       Total cross section: 1.065e-05 +- 8.5e-09 pb
+NLO/result_WR4500_N4400_NLO/WRtoNLtoLLJJ_WR4500_N4400_NLO.log | cross section:       Total cross section: 4.765e-06 +- 4.2e-09 pb
+NLO/result_WR4500_N500_NLO/WRtoNLtoLLJJ_WR4500_N500_NLO.log | cross section:       Total cross section: 8.763e-04 +- 9.1e-07 pb
+NLO/result_WR4500_N600_NLO/WRtoNLtoLLJJ_WR4500_N600_NLO.log | cross section:       Total cross section: 8.369e-04 +- 7.6e-07 pb
+NLO/result_WR4500_N700_NLO/WRtoNLtoLLJJ_WR4500_N700_NLO.log | cross section:       Total cross section: 8.019e-04 +- 6.8e-07 pb
+NLO/result_WR4500_N800_NLO/WRtoNLtoLLJJ_WR4500_N800_NLO.log | cross section:       Total cross section: 7.718e-04 +- 7.2e-07 pb
+NLO/result_WR4500_N900_NLO/WRtoNLtoLLJJ_WR4500_N900_NLO.log | cross section:       Total cross section: 7.440e-04 +- 7.2e-07 pb
+NLO/result_WR5000_N1000_NLO/WRtoNLtoLLJJ_WR5000_N1000_NLO.log | cross section:       Total cross section: 3.384e-04 +- 3.2e-07 pb
+NLO/result_WR5000_N100_NLO/WRtoNLtoLLJJ_WR5000_N100_NLO.log | cross section:       Total cross section: 5.795e-04 +- 6.7e-07 pb
+NLO/result_WR5000_N1100_NLO/WRtoNLtoLLJJ_WR5000_N1100_NLO.log | cross section:       Total cross section: 3.256e-04 +- 3.3e-07 pb
+NLO/result_WR5000_N1200_NLO/WRtoNLtoLLJJ_WR5000_N1200_NLO.log | cross section:       Total cross section: 3.130e-04 +- 2.8e-07 pb
+NLO/result_WR5000_N1300_NLO/WRtoNLtoLLJJ_WR5000_N1300_NLO.log | cross section:       Total cross section: 3.016e-04 +- 2.9e-07 pb
+NLO/result_WR5000_N1400_NLO/WRtoNLtoLLJJ_WR5000_N1400_NLO.log | cross section:       Total cross section: 2.912e-04 +- 2.7e-07 pb
+NLO/result_WR5000_N1500_NLO/WRtoNLtoLLJJ_WR5000_N1500_NLO.log | cross section:       Total cross section: 2.807e-04 +- 2.5e-07 pb
+NLO/result_WR5000_N1600_NLO/WRtoNLtoLLJJ_WR5000_N1600_NLO.log | cross section:       Total cross section: 2.716e-04 +- 2.2e-07 pb
+NLO/result_WR5000_N1700_NLO/WRtoNLtoLLJJ_WR5000_N1700_NLO.log | cross section:       Total cross section: 2.622e-04 +- 2.0e-07 pb
+NLO/result_WR5000_N1800_NLO/WRtoNLtoLLJJ_WR5000_N1800_NLO.log | cross section:       Total cross section: 2.528e-04 +- 2.2e-07 pb
+NLO/result_WR5000_N1900_NLO/WRtoNLtoLLJJ_WR5000_N1900_NLO.log | cross section:       Total cross section: 2.437e-04 +- 2.4e-07 pb
+NLO/result_WR5000_N2000_NLO/WRtoNLtoLLJJ_WR5000_N2000_NLO.log | cross section:       Total cross section: 2.351e-04 +- 2.2e-07 pb
+NLO/result_WR5000_N200_NLO/WRtoNLtoLLJJ_WR5000_N200_NLO.log | cross section:       Total cross section: 5.297e-04 +- 6.0e-07 pb
+NLO/result_WR5000_N2100_NLO/WRtoNLtoLLJJ_WR5000_N2100_NLO.log | cross section:       Total cross section: 2.265e-04 +- 2.0e-07 pb
+NLO/result_WR5000_N2200_NLO/WRtoNLtoLLJJ_WR5000_N2200_NLO.log | cross section:       Total cross section: 2.178e-04 +- 1.9e-07 pb
+NLO/result_WR5000_N2300_NLO/WRtoNLtoLLJJ_WR5000_N2300_NLO.log | cross section:       Total cross section: 2.091e-04 +- 1.8e-07 pb
+NLO/result_WR5000_N2400_NLO/WRtoNLtoLLJJ_WR5000_N2400_NLO.log | cross section:       Total cross section: 2.005e-04 +- 1.7e-07 pb
+NLO/result_WR5000_N2500_NLO/WRtoNLtoLLJJ_WR5000_N2500_NLO.log | cross section:       Total cross section: 1.917e-04 +- 1.6e-07 pb
+NLO/result_WR5000_N2600_NLO/WRtoNLtoLLJJ_WR5000_N2600_NLO.log | cross section:       Total cross section: 1.830e-04 +- 1.4e-07 pb
+NLO/result_WR5000_N2700_NLO/WRtoNLtoLLJJ_WR5000_N2700_NLO.log | cross section:       Total cross section: 1.741e-04 +- 1.4e-07 pb
+NLO/result_WR5000_N2800_NLO/WRtoNLtoLLJJ_WR5000_N2800_NLO.log | cross section:       Total cross section: 1.651e-04 +- 1.2e-07 pb
+NLO/result_WR5000_N2900_NLO/WRtoNLtoLLJJ_WR5000_N2900_NLO.log | cross section:       Total cross section: 1.561e-04 +- 1.2e-07 pb
+NLO/result_WR5000_N3000_NLO/WRtoNLtoLLJJ_WR5000_N3000_NLO.log | cross section:       Total cross section: 1.469e-04 +- 1.1e-07 pb
+NLO/result_WR5000_N300_NLO/WRtoNLtoLLJJ_WR5000_N300_NLO.log | cross section:       Total cross section: 4.912e-04 +- 5.0e-07 pb
+NLO/result_WR5000_N3100_NLO/WRtoNLtoLLJJ_WR5000_N3100_NLO.log | cross section:       Total cross section: 1.378e-04 +- 1.0e-07 pb
+NLO/result_WR5000_N3200_NLO/WRtoNLtoLLJJ_WR5000_N3200_NLO.log | cross section:       Total cross section: 1.284e-04 +- 9.4e-08 pb
+NLO/result_WR5000_N3300_NLO/WRtoNLtoLLJJ_WR5000_N3300_NLO.log | cross section:       Total cross section: 1.190e-04 +- 8.6e-08 pb
+NLO/result_WR5000_N3400_NLO/WRtoNLtoLLJJ_WR5000_N3400_NLO.log | cross section:       Total cross section: 1.096e-04 +- 7.9e-08 pb
+NLO/result_WR5000_N3500_NLO/WRtoNLtoLLJJ_WR5000_N3500_NLO.log | cross section:       Total cross section: 1.001e-04 +- 7.2e-08 pb
+NLO/result_WR5000_N3600_NLO/WRtoNLtoLLJJ_WR5000_N3600_NLO.log | cross section:       Total cross section: 9.074e-05 +- 7.7e-08 pb
+NLO/result_WR5000_N3700_NLO/WRtoNLtoLLJJ_WR5000_N3700_NLO.log | cross section:       Total cross section: 8.133e-05 +- 6.8e-08 pb
+NLO/result_WR5000_N3800_NLO/WRtoNLtoLLJJ_WR5000_N3800_NLO.log | cross section:       Total cross section: 7.207e-05 +- 6.1e-08 pb
+NLO/result_WR5000_N3900_NLO/WRtoNLtoLLJJ_WR5000_N3900_NLO.log | cross section:       Total cross section: 6.296e-05 +- 6.0e-08 pb
+NLO/result_WR5000_N4000_NLO/WRtoNLtoLLJJ_WR5000_N4000_NLO.log | cross section:       Total cross section: 5.418e-05 +- 4.6e-08 pb
+NLO/result_WR5000_N400_NLO/WRtoNLtoLLJJ_WR5000_N400_NLO.log | cross section:       Total cross section: 4.585e-04 +- 4.6e-07 pb
+NLO/result_WR5000_N4100_NLO/WRtoNLtoLLJJ_WR5000_N4100_NLO.log | cross section:       Total cross section: 4.563e-05 +- 3.8e-08 pb
+NLO/result_WR5000_N4200_NLO/WRtoNLtoLLJJ_WR5000_N4200_NLO.log | cross section:       Total cross section: 3.760e-05 +- 3.2e-08 pb
+NLO/result_WR5000_N4300_NLO/WRtoNLtoLLJJ_WR5000_N4300_NLO.log | cross section:       Total cross section: 3.003e-05 +- 2.5e-08 pb
+NLO/result_WR5000_N4400_NLO/WRtoNLtoLLJJ_WR5000_N4400_NLO.log | cross section:       Total cross section: 2.314e-05 +- 1.7e-08 pb
+NLO/result_WR5000_N4500_NLO/WRtoNLtoLLJJ_WR5000_N4500_NLO.log | cross section:       Total cross section: 1.694e-05 +- 1.2e-08 pb
+NLO/result_WR5000_N4600_NLO/WRtoNLtoLLJJ_WR5000_N4600_NLO.log | cross section:       Total cross section: 1.163e-05 +- 8.5e-09 pb
+NLO/result_WR5000_N4700_NLO/WRtoNLtoLLJJ_WR5000_N4700_NLO.log | cross section:       Total cross section: 7.286e-06 +- 5.5e-09 pb
+NLO/result_WR5000_N4800_NLO/WRtoNLtoLLJJ_WR5000_N4800_NLO.log | cross section:       Total cross section: 4.007e-06 +- 3.2e-09 pb
+NLO/result_WR5000_N4900_NLO/WRtoNLtoLLJJ_WR5000_N4900_NLO.log | cross section:       Total cross section: 1.898e-06 +- 1.6e-09 pb
+NLO/result_WR5000_N500_NLO/WRtoNLtoLLJJ_WR5000_N500_NLO.log | cross section:       Total cross section: 4.309e-04 +- 4.8e-07 pb
+NLO/result_WR5000_N600_NLO/WRtoNLtoLLJJ_WR5000_N600_NLO.log | cross section:       Total cross section: 4.074e-04 +- 4.2e-07 pb
+NLO/result_WR5000_N700_NLO/WRtoNLtoLLJJ_WR5000_N700_NLO.log | cross section:       Total cross section: 3.868e-04 +- 3.7e-07 pb
+NLO/result_WR5000_N800_NLO/WRtoNLtoLLJJ_WR5000_N800_NLO.log | cross section:       Total cross section: 3.693e-04 +- 3.5e-07 pb
+NLO/result_WR5000_N900_NLO/WRtoNLtoLLJJ_WR5000_N900_NLO.log | cross section:       Total cross section: 3.534e-04 +- 3.1e-07 pb
+NLO/result_WR5500_N1000_NLO/WRtoNLtoLLJJ_WR5500_N1000_NLO.log | cross section:       Total cross section: 1.768e-04 +- 1.8e-07 pb
+NLO/result_WR5500_N100_NLO/WRtoNLtoLLJJ_WR5500_N100_NLO.log | cross section:       Total cross section: 3.353e-04 +- 3.7e-07 pb
+NLO/result_WR5500_N1100_NLO/WRtoNLtoLLJJ_WR5500_N1100_NLO.log | cross section:       Total cross section: 1.686e-04 +- 1.5e-07 pb
+NLO/result_WR5500_N1200_NLO/WRtoNLtoLLJJ_WR5500_N1200_NLO.log | cross section:       Total cross section: 1.616e-04 +- 1.4e-07 pb
+NLO/result_WR5500_N1300_NLO/WRtoNLtoLLJJ_WR5500_N1300_NLO.log | cross section:       Total cross section: 1.550e-04 +- 1.3e-07 pb
+NLO/result_WR5500_N1400_NLO/WRtoNLtoLLJJ_WR5500_N1400_NLO.log | cross section:       Total cross section: 1.492e-04 +- 1.2e-07 pb
+NLO/result_WR5500_N1500_NLO/WRtoNLtoLLJJ_WR5500_N1500_NLO.log | cross section:       Total cross section: 1.440e-04 +- 1.4e-07 pb
+NLO/result_WR5500_N1600_NLO/WRtoNLtoLLJJ_WR5500_N1600_NLO.log | cross section:       Total cross section: 1.388e-04 +- 1.4e-07 pb
+NLO/result_WR5500_N1700_NLO/WRtoNLtoLLJJ_WR5500_N1700_NLO.log | cross section:       Total cross section: 1.340e-04 +- 1.3e-07 pb
+NLO/result_WR5500_N1800_NLO/WRtoNLtoLLJJ_WR5500_N1800_NLO.log | cross section:       Total cross section: 1.296e-04 +- 1.2e-07 pb
+NLO/result_WR5500_N1900_NLO/WRtoNLtoLLJJ_WR5500_N1900_NLO.log | cross section:       Total cross section: 1.252e-04 +- 1.1e-07 pb
+NLO/result_WR5500_N2000_NLO/WRtoNLtoLLJJ_WR5500_N2000_NLO.log | cross section:       Total cross section: 1.211e-04 +- 9.7e-08 pb
+NLO/result_WR5500_N200_NLO/WRtoNLtoLLJJ_WR5500_N200_NLO.log | cross section:       Total cross section: 3.023e-04 +- 2.9e-07 pb
+NLO/result_WR5500_N2100_NLO/WRtoNLtoLLJJ_WR5500_N2100_NLO.log | cross section:       Total cross section: 1.169e-04 +- 9.0e-08 pb
+NLO/result_WR5500_N2200_NLO/WRtoNLtoLLJJ_WR5500_N2200_NLO.log | cross section:       Total cross section: 1.130e-04 +- 8.4e-08 pb
+NLO/result_WR5500_N2300_NLO/WRtoNLtoLLJJ_WR5500_N2300_NLO.log | cross section:       Total cross section: 1.090e-04 +- 9.5e-08 pb
+NLO/result_WR5500_N2400_NLO/WRtoNLtoLLJJ_WR5500_N2400_NLO.log | cross section:       Total cross section: 1.053e-04 +- 9.9e-08 pb
+NLO/result_WR5500_N2500_NLO/WRtoNLtoLLJJ_WR5500_N2500_NLO.log | cross section:       Total cross section: 1.014e-04 +- 9.1e-08 pb
+NLO/result_WR5500_N2600_NLO/WRtoNLtoLLJJ_WR5500_N2600_NLO.log | cross section:       Total cross section: 9.765e-05 +- 8.7e-08 pb
+NLO/result_WR5500_N2700_NLO/WRtoNLtoLLJJ_WR5500_N2700_NLO.log | cross section:       Total cross section: 9.372e-05 +- 8.1e-08 pb
+NLO/result_WR5500_N2800_NLO/WRtoNLtoLLJJ_WR5500_N2800_NLO.log | cross section:       Total cross section: 8.989e-05 +- 7.5e-08 pb
+NLO/result_WR5500_N2900_NLO/WRtoNLtoLLJJ_WR5500_N2900_NLO.log | cross section:       Total cross section: 8.608e-05 +- 6.8e-08 pb
+NLO/result_WR5500_N3000_NLO/WRtoNLtoLLJJ_WR5500_N3000_NLO.log | cross section:       Total cross section: 8.219e-05 +- 6.6e-08 pb
+NLO/result_WR5500_N300_NLO/WRtoNLtoLLJJ_WR5500_N300_NLO.log | cross section:       Total cross section: 2.751e-04 +- 3.2e-07 pb
+NLO/result_WR5500_N3100_NLO/WRtoNLtoLLJJ_WR5500_N3100_NLO.log | cross section:       Total cross section: 7.837e-05 +- 6.1e-08 pb
+NLO/result_WR5500_N3200_NLO/WRtoNLtoLLJJ_WR5500_N3200_NLO.log | cross section:       Total cross section: 7.444e-05 +- 5.7e-08 pb
+NLO/result_WR5500_N3300_NLO/WRtoNLtoLLJJ_WR5500_N3300_NLO.log | cross section:       Total cross section: 7.041e-05 +- 5.3e-08 pb
+NLO/result_WR5500_N3400_NLO/WRtoNLtoLLJJ_WR5500_N3400_NLO.log | cross section:       Total cross section: 6.632e-05 +- 4.9e-08 pb
+NLO/result_WR5500_N3500_NLO/WRtoNLtoLLJJ_WR5500_N3500_NLO.log | cross section:       Total cross section: 6.228e-05 +- 4.6e-08 pb
+NLO/result_WR5500_N3600_NLO/WRtoNLtoLLJJ_WR5500_N3600_NLO.log | cross section:       Total cross section: 5.821e-05 +- 4.2e-08 pb
+NLO/result_WR5500_N3700_NLO/WRtoNLtoLLJJ_WR5500_N3700_NLO.log | cross section:       Total cross section: 5.414e-05 +- 3.9e-08 pb
+NLO/result_WR5500_N3800_NLO/WRtoNLtoLLJJ_WR5500_N3800_NLO.log | cross section:       Total cross section: 5.003e-05 +- 4.9e-08 pb
+NLO/result_WR5500_N3900_NLO/WRtoNLtoLLJJ_WR5500_N3900_NLO.log | cross section:       Total cross section: 4.589e-05 +- 3.9e-08 pb
+NLO/result_WR5500_N4000_NLO/WRtoNLtoLLJJ_WR5500_N4000_NLO.log | cross section:       Total cross section: 4.180e-05 +- 3.6e-08 pb
+NLO/result_WR5500_N400_NLO/WRtoNLtoLLJJ_WR5500_N400_NLO.log | cross section:       Total cross section: 2.536e-04 +- 2.6e-07 pb
+NLO/result_WR5500_N4100_NLO/WRtoNLtoLLJJ_WR5500_N4100_NLO.log | cross section:       Total cross section: 3.774e-05 +- 3.6e-08 pb
+NLO/result_WR5500_N4200_NLO/WRtoNLtoLLJJ_WR5500_N4200_NLO.log | cross section:       Total cross section: 3.371e-05 +- 3.2e-08 pb
+NLO/result_WR5500_N4300_NLO/WRtoNLtoLLJJ_WR5500_N4300_NLO.log | cross section:       Total cross section: 2.979e-05 +- 2.9e-08 pb
+NLO/result_WR5500_N4400_NLO/WRtoNLtoLLJJ_WR5500_N4400_NLO.log | cross section:       Total cross section: 2.595e-05 +- 2.2e-08 pb
+NLO/result_WR5500_N4500_NLO/WRtoNLtoLLJJ_WR5500_N4500_NLO.log | cross section:       Total cross section: 2.224e-05 +- 1.8e-08 pb
+NLO/result_WR5500_N4600_NLO/WRtoNLtoLLJJ_WR5500_N4600_NLO.log | cross section:       Total cross section: 1.869e-05 +- 1.6e-08 pb
+NLO/result_WR5500_N4700_NLO/WRtoNLtoLLJJ_WR5500_N4700_NLO.log | cross section:       Total cross section: 1.534e-05 +- 1.3e-08 pb
+NLO/result_WR5500_N4800_NLO/WRtoNLtoLLJJ_WR5500_N4800_NLO.log | cross section:       Total cross section: 1.224e-05 +- 1.0e-08 pb
+NLO/result_WR5500_N4900_NLO/WRtoNLtoLLJJ_WR5500_N4900_NLO.log | cross section:       Total cross section: 9.410e-06 +- 6.7e-09 pb
+NLO/result_WR5500_N5000_NLO/WRtoNLtoLLJJ_WR5500_N5000_NLO.log | cross section:       Total cross section: 6.900e-06 +- 5.9e-09 pb
+NLO/result_WR5500_N500_NLO/WRtoNLtoLLJJ_WR5500_N500_NLO.log | cross section:       Total cross section: 2.354e-04 +- 2.2e-07 pb
+NLO/result_WR5500_N5100_NLO/WRtoNLtoLLJJ_WR5500_N5100_NLO.log | cross section:       Total cross section: 4.736e-06 +- 3.4e-09 pb
+NLO/result_WR5500_N5200_NLO/WRtoNLtoLLJJ_WR5500_N5200_NLO.log | cross section:       Total cross section: 2.992e-06 +- 2.2e-09 pb
+NLO/result_WR5500_N5300_NLO/WRtoNLtoLLJJ_WR5500_N5300_NLO.log | cross section:       Total cross section: 1.679e-06 +- 1.3e-09 pb
+NLO/result_WR5500_N5400_NLO/WRtoNLtoLLJJ_WR5500_N5400_NLO.log | cross section:       Total cross section: 8.256e-07 +- 6.6e-10 pb
+NLO/result_WR5500_N600_NLO/WRtoNLtoLLJJ_WR5500_N600_NLO.log | cross section:       Total cross section: 2.204e-04 +- 2.0e-07 pb
+NLO/result_WR5500_N700_NLO/WRtoNLtoLLJJ_WR5500_N700_NLO.log | cross section:       Total cross section: 2.071e-04 +- 2.0e-07 pb
+NLO/result_WR5500_N800_NLO/WRtoNLtoLLJJ_WR5500_N800_NLO.log | cross section:       Total cross section: 1.951e-04 +- 1.8e-07 pb
+NLO/result_WR5500_N900_NLO/WRtoNLtoLLJJ_WR5500_N900_NLO.log | cross section:       Total cross section: 1.852e-04 +- 1.5e-07 pb
+NLO/result_WR6000_N1000_NLO/WRtoNLtoLLJJ_WR6000_N1000_NLO.log | cross section:       Total cross section: 9.866e-05 +- 9.1e-08 pb
+NLO/result_WR6000_N100_NLO/WRtoNLtoLLJJ_WR6000_N100_NLO.log | cross section:       Total cross section: 2.080e-04 +- 2.5e-07 pb
+NLO/result_WR6000_N1100_NLO/WRtoNLtoLLJJ_WR6000_N1100_NLO.log | cross section:       Total cross section: 9.360e-05 +- 8.5e-08 pb
+NLO/result_WR6000_N1200_NLO/WRtoNLtoLLJJ_WR6000_N1200_NLO.log | cross section:       Total cross section: 8.902e-05 +- 7.2e-08 pb
+NLO/result_WR6000_N1300_NLO/WRtoNLtoLLJJ_WR6000_N1300_NLO.log | cross section:       Total cross section: 8.517e-05 +- 8.7e-08 pb
+NLO/result_WR6000_N1400_NLO/WRtoNLtoLLJJ_WR6000_N1400_NLO.log | cross section:       Total cross section: 8.155e-05 +- 7.5e-08 pb
+NLO/result_WR6000_N1500_NLO/WRtoNLtoLLJJ_WR6000_N1500_NLO.log | cross section:       Total cross section: 7.832e-05 +- 6.6e-08 pb
+NLO/result_WR6000_N1600_NLO/WRtoNLtoLLJJ_WR6000_N1600_NLO.log | cross section:       Total cross section: 7.535e-05 +- 6.5e-08 pb
+NLO/result_WR6000_N1700_NLO/WRtoNLtoLLJJ_WR6000_N1700_NLO.log | cross section:       Total cross section: 7.259e-05 +- 5.8e-08 pb
+NLO/result_WR6000_N1800_NLO/WRtoNLtoLLJJ_WR6000_N1800_NLO.log | cross section:       Total cross section: 7.013e-05 +- 6.3e-08 pb
+NLO/result_WR6000_N1900_NLO/WRtoNLtoLLJJ_WR6000_N1900_NLO.log | cross section:       Total cross section: 6.783e-05 +- 6.1e-08 pb
+NLO/result_WR6000_N2000_NLO/WRtoNLtoLLJJ_WR6000_N2000_NLO.log | cross section:       Total cross section: 6.562e-05 +- 6.1e-08 pb
+NLO/result_WR6000_N200_NLO/WRtoNLtoLLJJ_WR6000_N200_NLO.log | cross section:       Total cross section: 1.849e-04 +- 1.9e-07 pb
+NLO/result_WR6000_N2100_NLO/WRtoNLtoLLJJ_WR6000_N2100_NLO.log | cross section:       Total cross section: 6.345e-05 +- 5.5e-08 pb
+NLO/result_WR6000_N2200_NLO/WRtoNLtoLLJJ_WR6000_N2200_NLO.log | cross section:       Total cross section: 6.139e-05 +- 5.2e-08 pb
+NLO/result_WR6000_N2300_NLO/WRtoNLtoLLJJ_WR6000_N2300_NLO.log | cross section:       Total cross section: 5.951e-05 +- 4.7e-08 pb
+NLO/result_WR6000_N2400_NLO/WRtoNLtoLLJJ_WR6000_N2400_NLO.log | cross section:       Total cross section: 5.752e-05 +- 4.4e-08 pb
+NLO/result_WR6000_N2500_NLO/WRtoNLtoLLJJ_WR6000_N2500_NLO.log | cross section:       Total cross section: 5.571e-05 +- 4.1e-08 pb
+NLO/result_WR6000_N2600_NLO/WRtoNLtoLLJJ_WR6000_N2600_NLO.log | cross section:       Total cross section: 5.389e-05 +- 5.1e-08 pb
+NLO/result_WR6000_N2700_NLO/WRtoNLtoLLJJ_WR6000_N2700_NLO.log | cross section:       Total cross section: 5.210e-05 +- 5.0e-08 pb
+NLO/result_WR6000_N2800_NLO/WRtoNLtoLLJJ_WR6000_N2800_NLO.log | cross section:       Total cross section: 5.032e-05 +- 4.6e-08 pb
+NLO/result_WR6000_N2900_NLO/WRtoNLtoLLJJ_WR6000_N2900_NLO.log | cross section:       Total cross section: 4.850e-05 +- 3.8e-08 pb
+NLO/result_WR6000_N3000_NLO/WRtoNLtoLLJJ_WR6000_N3000_NLO.log | cross section:       Total cross section: 4.676e-05 +- 4.0e-08 pb
+NLO/result_WR6000_N300_NLO/WRtoNLtoLLJJ_WR6000_N300_NLO.log | cross section:       Total cross section: 1.660e-04 +- 1.6e-07 pb
+NLO/result_WR6000_N3100_NLO/WRtoNLtoLLJJ_WR6000_N3100_NLO.log | cross section:       Total cross section: 4.497e-05 +- 3.7e-08 pb
+NLO/result_WR6000_N3200_NLO/WRtoNLtoLLJJ_WR6000_N3200_NLO.log | cross section:       Total cross section: 4.314e-05 +- 3.5e-08 pb
+NLO/result_WR6000_N3300_NLO/WRtoNLtoLLJJ_WR6000_N3300_NLO.log | cross section:       Total cross section: 4.133e-05 +- 3.2e-08 pb
+NLO/result_WR6000_N3400_NLO/WRtoNLtoLLJJ_WR6000_N3400_NLO.log | cross section:       Total cross section: 3.949e-05 +- 3.0e-08 pb
+NLO/result_WR6000_N3500_NLO/WRtoNLtoLLJJ_WR6000_N3500_NLO.log | cross section:       Total cross section: 3.766e-05 +- 2.8e-08 pb
+NLO/result_WR6000_N3600_NLO/WRtoNLtoLLJJ_WR6000_N3600_NLO.log | cross section:       Total cross section: 3.581e-05 +- 2.6e-08 pb
+NLO/result_WR6000_N3700_NLO/WRtoNLtoLLJJ_WR6000_N3700_NLO.log | cross section:       Total cross section: 3.393e-05 +- 2.5e-08 pb
+NLO/result_WR6000_N3800_NLO/WRtoNLtoLLJJ_WR6000_N3800_NLO.log | cross section:       Total cross section: 3.204e-05 +- 2.3e-08 pb
+NLO/result_WR6000_N3900_NLO/WRtoNLtoLLJJ_WR6000_N3900_NLO.log | cross section:       Total cross section: 3.016e-05 +- 2.2e-08 pb
+NLO/result_WR6000_N4000_NLO/WRtoNLtoLLJJ_WR6000_N4000_NLO.log | cross section:       Total cross section: 2.822e-05 +- 2.0e-08 pb
+NLO/result_WR6000_N400_NLO/WRtoNLtoLLJJ_WR6000_N400_NLO.log | cross section:       Total cross section: 1.508e-04 +- 1.6e-07 pb
+NLO/result_WR6000_N4100_NLO/WRtoNLtoLLJJ_WR6000_N4100_NLO.log | cross section:       Total cross section: 2.630e-05 +- 1.9e-08 pb
+NLO/result_WR6000_N4200_NLO/WRtoNLtoLLJJ_WR6000_N4200_NLO.log | cross section:       Total cross section: 2.438e-05 +- 2.4e-08 pb
+NLO/result_WR6000_N4300_NLO/WRtoNLtoLLJJ_WR6000_N4300_NLO.log | cross section:       Total cross section: 2.248e-05 +- 2.2e-08 pb
+NLO/result_WR6000_N4400_NLO/WRtoNLtoLLJJ_WR6000_N4400_NLO.log | cross section:       Total cross section: 2.057e-05 +- 2.0e-08 pb
+NLO/result_WR6000_N4500_NLO/WRtoNLtoLLJJ_WR6000_N4500_NLO.log | cross section:       Total cross section: 1.870e-05 +- 1.8e-08 pb
+NLO/result_WR6000_N4600_NLO/WRtoNLtoLLJJ_WR6000_N4600_NLO.log | cross section:       Total cross section: 1.681e-05 +- 1.6e-08 pb
+NLO/result_WR6000_N4700_NLO/WRtoNLtoLLJJ_WR6000_N4700_NLO.log | cross section:       Total cross section: 1.498e-05 +- 1.4e-08 pb
+NLO/result_WR6000_N4800_NLO/WRtoNLtoLLJJ_WR6000_N4800_NLO.log | cross section:       Total cross section: 1.319e-05 +- 1.1e-08 pb
+NLO/result_WR6000_N4900_NLO/WRtoNLtoLLJJ_WR6000_N4900_NLO.log | cross section:       Total cross section: 1.146e-05 +- 1.1e-08 pb
+NLO/result_WR6000_N5000_NLO/WRtoNLtoLLJJ_WR6000_N5000_NLO.log | cross section:       Total cross section: 9.792e-06 +- 9.4e-09 pb
+NLO/result_WR6000_N500_NLO/WRtoNLtoLLJJ_WR6000_N500_NLO.log | cross section:       Total cross section: 1.381e-04 +- 1.4e-07 pb
+NLO/result_WR6000_N5100_NLO/WRtoNLtoLLJJ_WR6000_N5100_NLO.log | cross section:       Total cross section: 8.205e-06 +- 7.8e-09 pb
+NLO/result_WR6000_N5200_NLO/WRtoNLtoLLJJ_WR6000_N5200_NLO.log | cross section:       Total cross section: 6.715e-06 +- 4.7e-09 pb
+NLO/result_WR6000_N5300_NLO/WRtoNLtoLLJJ_WR6000_N5300_NLO.log | cross section:       Total cross section: 5.344e-06 +- 3.8e-09 pb
+NLO/result_WR6000_N5400_NLO/WRtoNLtoLLJJ_WR6000_N5400_NLO.log | cross section:       Total cross section: 4.095e-06 +- 2.9e-09 pb
+NLO/result_WR6000_N5500_NLO/WRtoNLtoLLJJ_WR6000_N5500_NLO.log | cross section:       Total cross section: 2.999e-06 +- 2.6e-09 pb
+NLO/result_WR6000_N5600_NLO/WRtoNLtoLLJJ_WR6000_N5600_NLO.log | cross section:       Total cross section: 2.065e-06 +- 1.5e-09 pb
+NLO/result_WR6000_N5700_NLO/WRtoNLtoLLJJ_WR6000_N5700_NLO.log | cross section:       Total cross section: 1.307e-06 +- 9.5e-10 pb
+NLO/result_WR6000_N5800_NLO/WRtoNLtoLLJJ_WR6000_N5800_NLO.log | cross section:       Total cross section: 7.422e-07 +- 5.6e-10 pb
+NLO/result_WR6000_N5900_NLO/WRtoNLtoLLJJ_WR6000_N5900_NLO.log | cross section:       Total cross section: 3.750e-07 +- 3.0e-10 pb
+NLO/result_WR6000_N600_NLO/WRtoNLtoLLJJ_WR6000_N600_NLO.log | cross section:       Total cross section: 1.274e-04 +- 1.3e-07 pb
+NLO/result_WR6000_N700_NLO/WRtoNLtoLLJJ_WR6000_N700_NLO.log | cross section:       Total cross section: 1.187e-04 +- 1.1e-07 pb
+NLO/result_WR6000_N800_NLO/WRtoNLtoLLJJ_WR6000_N800_NLO.log | cross section:       Total cross section: 1.110e-04 +- 9.7e-08 pb
+NLO/result_WR6000_N900_NLO/WRtoNLtoLLJJ_WR6000_N900_NLO.log | cross section:       Total cross section: 1.044e-04 +- 8.8e-08 pb
+NLO/result_WR6500_N1000_NLO/WRtoNLtoLLJJ_WR6500_N1000_NLO.log | cross section:       Total cross section: 5.748e-05 +- 5.5e-08 pb
+NLO/result_WR6500_N100_NLO/WRtoNLtoLLJJ_WR6500_N100_NLO.log | cross section:       Total cross section: 1.357e-04 +- 1.5e-07 pb
+NLO/result_WR6500_N1100_NLO/WRtoNLtoLLJJ_WR6500_N1100_NLO.log | cross section:       Total cross section: 5.408e-05 +- 5.3e-08 pb
+NLO/result_WR6500_N1200_NLO/WRtoNLtoLLJJ_WR6500_N1200_NLO.log | cross section:       Total cross section: 5.120e-05 +- 5.2e-08 pb
+NLO/result_WR6500_N1300_NLO/WRtoNLtoLLJJ_WR6500_N1300_NLO.log | cross section:       Total cross section: 4.848e-05 +- 4.4e-08 pb
+NLO/result_WR6500_N1400_NLO/WRtoNLtoLLJJ_WR6500_N1400_NLO.log | cross section:       Total cross section: 4.611e-05 +- 4.4e-08 pb
+NLO/result_WR6500_N1500_NLO/WRtoNLtoLLJJ_WR6500_N1500_NLO.log | cross section:       Total cross section: 4.402e-05 +- 3.6e-08 pb
+NLO/result_WR6500_N1600_NLO/WRtoNLtoLLJJ_WR6500_N1600_NLO.log | cross section:       Total cross section: 4.223e-05 +- 3.5e-08 pb
+NLO/result_WR6500_N1700_NLO/WRtoNLtoLLJJ_WR6500_N1700_NLO.log | cross section:       Total cross section: 4.054e-05 +- 3.5e-08 pb
+NLO/result_WR6500_N1800_NLO/WRtoNLtoLLJJ_WR6500_N1800_NLO.log | cross section:       Total cross section: 3.897e-05 +- 3.6e-08 pb
+NLO/result_WR6500_N1900_NLO/WRtoNLtoLLJJ_WR6500_N1900_NLO.log | cross section:       Total cross section: 3.762e-05 +- 3.3e-08 pb
+NLO/result_WR6500_N2000_NLO/WRtoNLtoLLJJ_WR6500_N2000_NLO.log | cross section:       Total cross section: 3.636e-05 +- 3.1e-08 pb
+NLO/result_WR6500_N200_NLO/WRtoNLtoLLJJ_WR6500_N200_NLO.log | cross section:       Total cross section: 1.188e-04 +- 1.2e-07 pb
+NLO/result_WR6500_N2100_NLO/WRtoNLtoLLJJ_WR6500_N2100_NLO.log | cross section:       Total cross section: 3.514e-05 +- 2.8e-08 pb
+NLO/result_WR6500_N2200_NLO/WRtoNLtoLLJJ_WR6500_N2200_NLO.log | cross section:       Total cross section: 3.408e-05 +- 3.0e-08 pb
+NLO/result_WR6500_N2300_NLO/WRtoNLtoLLJJ_WR6500_N2300_NLO.log | cross section:       Total cross section: 3.298e-05 +- 3.1e-08 pb
+NLO/result_WR6500_N2400_NLO/WRtoNLtoLLJJ_WR6500_N2400_NLO.log | cross section:       Total cross section: 3.194e-05 +- 2.9e-08 pb
+NLO/result_WR6500_N2500_NLO/WRtoNLtoLLJJ_WR6500_N2500_NLO.log | cross section:       Total cross section: 3.093e-05 +- 2.6e-08 pb
+NLO/result_WR6500_N2600_NLO/WRtoNLtoLLJJ_WR6500_N2600_NLO.log | cross section:       Total cross section: 2.999e-05 +- 2.5e-08 pb
+NLO/result_WR6500_N2700_NLO/WRtoNLtoLLJJ_WR6500_N2700_NLO.log | cross section:       Total cross section: 2.906e-05 +- 2.2e-08 pb
+NLO/result_WR6500_N2800_NLO/WRtoNLtoLLJJ_WR6500_N2800_NLO.log | cross section:       Total cross section: 2.820e-05 +- 2.5e-08 pb
+NLO/result_WR6500_N2900_NLO/WRtoNLtoLLJJ_WR6500_N2900_NLO.log | cross section:       Total cross section: 2.730e-05 +- 2.3e-08 pb
+NLO/result_WR6500_N3000_NLO/WRtoNLtoLLJJ_WR6500_N3000_NLO.log | cross section:       Total cross section: 2.647e-05 +- 2.1e-08 pb
+NLO/result_WR6500_N300_NLO/WRtoNLtoLLJJ_WR6500_N300_NLO.log | cross section:       Total cross section: 1.053e-04 +- 1.1e-07 pb
+NLO/result_WR6500_N3100_NLO/WRtoNLtoLLJJ_WR6500_N3100_NLO.log | cross section:       Total cross section: 2.560e-05 +- 2.3e-08 pb
+NLO/result_WR6500_N3200_NLO/WRtoNLtoLLJJ_WR6500_N3200_NLO.log | cross section:       Total cross section: 2.472e-05 +- 2.1e-08 pb
+NLO/result_WR6500_N3300_NLO/WRtoNLtoLLJJ_WR6500_N3300_NLO.log | cross section:       Total cross section: 2.384e-05 +- 2.0e-08 pb
+NLO/result_WR6500_N3400_NLO/WRtoNLtoLLJJ_WR6500_N3400_NLO.log | cross section:       Total cross section: 2.298e-05 +- 1.9e-08 pb
+NLO/result_WR6500_N3500_NLO/WRtoNLtoLLJJ_WR6500_N3500_NLO.log | cross section:       Total cross section: 2.210e-05 +- 1.7e-08 pb
+NLO/result_WR6500_N3600_NLO/WRtoNLtoLLJJ_WR6500_N3600_NLO.log | cross section:       Total cross section: 2.124e-05 +- 1.6e-08 pb
+NLO/result_WR6500_N3700_NLO/WRtoNLtoLLJJ_WR6500_N3700_NLO.log | cross section:       Total cross section: 2.033e-05 +- 1.5e-08 pb
+NLO/result_WR6500_N3800_NLO/WRtoNLtoLLJJ_WR6500_N3800_NLO.log | cross section:       Total cross section: 1.943e-05 +- 1.4e-08 pb
+NLO/result_WR6500_N3900_NLO/WRtoNLtoLLJJ_WR6500_N3900_NLO.log | cross section:       Total cross section: 1.855e-05 +- 1.4e-08 pb
+NLO/result_WR6500_N4000_NLO/WRtoNLtoLLJJ_WR6500_N4000_NLO.log | cross section:       Total cross section: 1.765e-05 +- 1.3e-08 pb
+NLO/result_WR6500_N400_NLO/WRtoNLtoLLJJ_WR6500_N400_NLO.log | cross section:       Total cross section: 9.431e-05 +- 8.3e-08 pb
+NLO/result_WR6500_N4100_NLO/WRtoNLtoLLJJ_WR6500_N4100_NLO.log | cross section:       Total cross section: 1.674e-05 +- 1.2e-08 pb
+NLO/result_WR6500_N4200_NLO/WRtoNLtoLLJJ_WR6500_N4200_NLO.log | cross section:       Total cross section: 1.582e-05 +- 1.1e-08 pb
+NLO/result_WR6500_N4300_NLO/WRtoNLtoLLJJ_WR6500_N4300_NLO.log | cross section:       Total cross section: 1.490e-05 +- 1.0e-08 pb
+NLO/result_WR6500_N4400_NLO/WRtoNLtoLLJJ_WR6500_N4400_NLO.log | cross section:       Total cross section: 1.398e-05 +- 9.8e-09 pb
+NLO/result_WR6500_N4500_NLO/WRtoNLtoLLJJ_WR6500_N4500_NLO.log | cross section:       Total cross section: 1.307e-05 +- 1.1e-08 pb
+NLO/result_WR6500_N4600_NLO/WRtoNLtoLLJJ_WR6500_N4600_NLO.log | cross section:       Total cross section: 1.214e-05 +- 1.2e-08 pb
+NLO/result_WR6500_N4700_NLO/WRtoNLtoLLJJ_WR6500_N4700_NLO.log | cross section:       Total cross section: 1.123e-05 +- 7.9e-09 pb
+NLO/result_WR6500_N4800_NLO/WRtoNLtoLLJJ_WR6500_N4800_NLO.log | cross section:       Total cross section: 1.031e-05 +- 7.1e-09 pb
+NLO/result_WR6500_N4900_NLO/WRtoNLtoLLJJ_WR6500_N4900_NLO.log | cross section:       Total cross section: 9.404e-06 +- 9.1e-09 pb
+NLO/result_WR6500_N5000_NLO/WRtoNLtoLLJJ_WR6500_N5000_NLO.log | cross section:       Total cross section: 8.520e-06 +- 7.1e-09 pb
+NLO/result_WR6500_N500_NLO/WRtoNLtoLLJJ_WR6500_N500_NLO.log | cross section:       Total cross section: 8.539e-05 +- 7.3e-08 pb
+NLO/result_WR6500_N5100_NLO/WRtoNLtoLLJJ_WR6500_N5100_NLO.log | cross section:       Total cross section: 7.636e-06 +- 7.3e-09 pb
+NLO/result_WR6500_N5200_NLO/WRtoNLtoLLJJ_WR6500_N5200_NLO.log | cross section:       Total cross section: 6.778e-06 +- 5.7e-09 pb
+NLO/result_WR6500_N5300_NLO/WRtoNLtoLLJJ_WR6500_N5300_NLO.log | cross section:       Total cross section: 5.955e-06 +- 5.7e-09 pb
+NLO/result_WR6500_N5400_NLO/WRtoNLtoLLJJ_WR6500_N5400_NLO.log | cross section:       Total cross section: 5.160e-06 +- 4.9e-09 pb
+NLO/result_WR6500_N5500_NLO/WRtoNLtoLLJJ_WR6500_N5500_NLO.log | cross section:       Total cross section: 4.398e-06 +- 4.3e-09 pb
+NLO/result_WR6500_N5600_NLO/WRtoNLtoLLJJ_WR6500_N5600_NLO.log | cross section:       Total cross section: 3.677e-06 +- 3.1e-09 pb
+NLO/result_WR6500_N5700_NLO/WRtoNLtoLLJJ_WR6500_N5700_NLO.log | cross section:       Total cross section: 3.003e-06 +- 2.1e-09 pb
+NLO/result_WR6500_N5800_NLO/WRtoNLtoLLJJ_WR6500_N5800_NLO.log | cross section:       Total cross section: 2.382e-06 +- 1.7e-09 pb
+NLO/result_WR6500_N5900_NLO/WRtoNLtoLLJJ_WR6500_N5900_NLO.log | cross section:       Total cross section: 1.823e-06 +- 1.3e-09 pb
+NLO/result_WR6500_N6000_NLO/WRtoNLtoLLJJ_WR6500_N6000_NLO.log | cross section:       Total cross section: 1.332e-06 +- 9.6e-10 pb
+NLO/result_WR6500_N600_NLO/WRtoNLtoLLJJ_WR6500_N600_NLO.log | cross section:       Total cross section: 7.771e-05 +- 7.4e-08 pb
+NLO/result_WR6500_N6100_NLO/WRtoNLtoLLJJ_WR6500_N6100_NLO.log | cross section:       Total cross section: 9.172e-07 +- 6.7e-10 pb
+NLO/result_WR6500_N6200_NLO/WRtoNLtoLLJJ_WR6500_N6200_NLO.log | cross section:       Total cross section: 5.822e-07 +- 4.3e-10 pb
+NLO/result_WR6500_N6300_NLO/WRtoNLtoLLJJ_WR6500_N6300_NLO.log | cross section:       Total cross section: 3.326e-07 +- 2.5e-10 pb
+NLO/result_WR6500_N6400_NLO/WRtoNLtoLLJJ_WR6500_N6400_NLO.log | cross section:       Total cross section: 1.702e-07 +- 1.3e-10 pb
+NLO/result_WR6500_N700_NLO/WRtoNLtoLLJJ_WR6500_N700_NLO.log | cross section:       Total cross section: 7.152e-05 +- 6.6e-08 pb
+NLO/result_WR6500_N800_NLO/WRtoNLtoLLJJ_WR6500_N800_NLO.log | cross section:       Total cross section: 6.604e-05 +- 5.9e-08 pb
+NLO/result_WR6500_N900_NLO/WRtoNLtoLLJJ_WR6500_N900_NLO.log | cross section:       Total cross section: 6.150e-05 +- 5.6e-08 pb

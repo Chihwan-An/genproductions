@@ -1,0 +1,14 @@
+executable = /data6/Users/snuintern1/fork_gen_999/submit_files/running_scripts_in_condor/LO999/WR1000_N100_LO.sh
+log = /data6/Users/snuintern1/genproductions/data/WR1000_N100_LO.log
+output = /data6/Users/snuintern1/genproductions/data/WR1000_N100_LO.out
+error = /data6/Users/snuintern1/genproductions/data/WR1000_N100_LO.err
+getenv = True
+should_transfer_files = yes
+RequestCpus = 5
+RequestMemory = 16000
+transfer_output_files = genproductions/bin/MadGraph5_aMCatNLO/result_WR1000_N100
+queue 
+
+
+
+
