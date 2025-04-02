@@ -1,0 +1,7 @@
+import model EffLRSM_NLO
+define p = g u c d s  u~ c~ d~ s~ 
+define j = p
+define ll = ta+ ta-
+define nn = n3
+generate p p > nn ll [QCD]
+output WRtoNLtoLLJJ_WR5500_N3000_NLO --nojpeg
