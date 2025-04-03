@@ -4,4 +4,4 @@ define j = p
 define ll = ta+ ta-
 define nn = n3
 generate p p > nn ll [QCD]
-output WRtoNLtoLLJJ_WR5000_N4200_NLO --nojpeg
+output WRtoNLtoLLJJ_WR5000_N4200_NLO --nojpeg --hel_recycling=False

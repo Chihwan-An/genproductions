@@ -170,5 +170,5 @@
 ## Maximal PDG code for quark to be considered a jet when applying cuts.*
 ## At least all massless quarks of the model should be included here.   *
 ##**********************************************************************
-4   = maxjetflavor
+5   = maxjetflavor
 # #***********************************************************************

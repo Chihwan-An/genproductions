@@ -23,7 +23,7 @@ while (WRMASS <= WRMASSEND):
         with open(f"{DIRNAME}/{DIRNAME}_proc_card.dat", "w") as procnew:
             for line in proclines:
                 if "###OUTPUT" in line:
-                    procnew.write(f"output {DIRNAME} --nojpeg\n")
+                    procnew.write(f"output {DIRNAME} --nojpeg --hel_recycling=False\n")
                 else:
                     procnew.write(line)
 
